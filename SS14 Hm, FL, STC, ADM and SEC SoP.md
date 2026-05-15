@@ -25,10 +25,11 @@ The HM abides by guidelines as follows:
 
 The STC abides by guidelines as follows:
 
- - The STCs primary task is to be the official overseer and regulator of harbour & docking space procedure, upkeep and law enforcement. They are the individual tasked with assuring that ships docked, un-docked, in local-space and within the radar system of the harbour and station are managed and directed in an orderly and safe fashion. They assure that all pilots remain coordinated and informed of dangers, follow 
+ - The STCs primary task is to be the official overseer and regulator of harbour & docking space procedure, upkeep and law enforcement. They are the individual tasked with assuring that ships docked, un-docked, in local-space and within the radar system of the harbour and station are managed and directed in an orderly and safe fashion. They assure that all pilots remain coordinated and informed of dangers, follow standard harbour procedures to acquiesce a docking bay, and that all pilots obey lawful orders or requests to un-dock for Freelancer safety and to assure that the docking space and its many bays are not congested by traffic.
+ - The STC is the first and final 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjQxNDE5NCwxNDM3OTg4Njc2LC00MD
+eyJoaXN0b3J5IjpbMTE4NTA4MzU0MiwxNDM3OTg4Njc2LC00MD
 AzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgw
 ODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX
 0=

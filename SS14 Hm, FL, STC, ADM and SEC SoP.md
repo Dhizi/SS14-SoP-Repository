@@ -55,12 +55,13 @@ The STC abides by guidelines as follows:
 ## Admiral & Freelance Officer Staff SoP
 The Admiral and their FL Staff abide by guidelines as follows:
 
- - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equi
+ - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. 
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDA3Mzg1MCwtMTcwNTgwODE2MSwxMz
-M4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3
-NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLD
-EzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2
-NTAzNl19
+eyJoaXN0b3J5IjpbMzY3NTEyNDc5LC0xNzA1ODA4MTYxLDEzMz
+g5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OTg4Njc2
+LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMT
+MwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1
+MDM2XX0=
 -->

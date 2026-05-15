@@ -50,9 +50,13 @@ The STC abides by guidelines as follows:
  - The STC is responsible for directing the granted docking procedures to-station for Freelancers as part of their contracted assistance and bounty completion. Should any issues arise, the STC is to address the problem in SoP regulation.
  - The STC follows standard department arming procedures, and standardized duty practices. Should they shirk or disregard either, they are within the scope of the HM and station Captain to be demoted, addressed or handled. 
  - Should any issues or complications arise that the STC is not assured in the decision-making of, they may request the HM assist, or any relevant department heads. 
+##
+
+## Admiral & Freelance Officer Staff SoP
+The Admiral and their FL Staff abide by 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OT
-g4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1
-MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxOD
-A0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbNDUzNDA1NjYsMzA5MjkxNjk5LDgwMjMzNz
+YwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1Njgs
+LTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MT
+M4NTUyNCwxODA0MzY1MDM2XX0=
 -->

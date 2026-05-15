@@ -1,6 +1,6 @@
 # Freelance Department SoP
 
-### Harbor  Master
+## Harbor  Master
 The HM abides by guidelines as follows:
 
  - The HMs primary task is to regulate the in-and-out flow of Freelancers aboard the station and Harbour by using delegation, while also providing Freelancers a reliable service, harbour-space and assuring that their rights are not infringed upon in any manner that is illegal. Through the means of communication, their staff, harbour upkeep, bounties and checkpoint moderation they are able to fulfill their duties to the station by sufficiently providing a reliable leader who can function as a strong communicator between Freelancer and station staff and security.
@@ -19,8 +19,11 @@ The HM abides by guidelines as follows:
  - Long-arms may be worn upon the back of all Freelancer & staff while aboard the harbour. Laws must be followed before portal entry equivalent to the stations current alert and SoP status ruleset. Should any Freelancer or Officer brandish any firearms aboard the harbour for any means other than self-protection or the protection of another, they are in breach of standard SoP laws.
  - The HM may request any groups or individuals to disarm or conceal equipment if they have a valid reason to. By standard, the only strictly, fully-enforced BANNED equipments list is: Any equipment manufactured for use by forces hostile to Colonial Command (Including but not limited to: Nuclear operative wear, Blood-reds, high-explosives ordnance, bombs.), Widow or any known dangerous narcotics, Stealth-class gear that has been validly identified, and any dangerous chemicals such as Romerol. 
  - SHOULD ANY SUCH CONTRABAND BE SPOTTED, WHETHER BY ATTEMPTS OF CONCEALMENT, SEARCH & SEIZURE OR VISIBLY WORN UPON ONES PERSON -- THESE ILLEGAL ITEMS ARE TO BE CONFISCATED AND REPORTED TO SECURITY. These are the only full-enforced ban-list within harbour territory, and are to be treated as high-risk -- Staff is permitted to disarm by non-lethal, or if deemed, lethal force if necessary.
+##
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMT
-MwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1
-MDM2XX0=
+eyJoaXN0b3J5IjpbLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
+QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
+NTI0LDE4MDQzNjUwMzZdfQ==
 -->

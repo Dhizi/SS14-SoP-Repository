@@ -30,11 +30,11 @@ The STC abides by guidelines as follows:
  - Should it become a necessity to order a dock be freed of its current occupant, the STC may first request they abide by local STC authority and manually undock themselves from the occupied bay, and navigate to a safe distance away so that over vessels may navigate freely and safely. If this request is refused, the STC may then issue a direct order to undock, informing them of procedure rights, the reasoning of why they are being ordered to undock, and how long they have to comply before lawful enforcement will take matters into their own hands. By standard regulation, a pilot when informed of orders to undock has a duration of 5-minutes to comply (this may be modified upwards, NOT downwards. This is done to provide current dock occupant time to fulfill their current duty-tied activities and assure safe departure). 
  - Should a local docking bay occupier not comply with lawful orders, the STC may issue warrant, fine, or further privileges of using docking space. Should an individual not comply with the previously mentioned window of compliance (5 minutes), they are to then be lawfully informed by the STC by any means of verbal communication their grounds of failure to comply, what the attached punishment is, and that they are soon to be manually undocked by harbour staff and the STCs enforcement.
  - If local pilots attempt to resist any and all measures of lawful docking and safe-space travel procedure, the STC may direct a warrant of arrest, vessel seizure, or forced-undocking. The STC may then notify the on-harbour admiral and their staff to navigate to the warranted pilot and their vessel to enforce lawful STC orders. 
- - By standard practices, all 
+ - By standard practices, all means of enforcement are to first be addressed non-lethally. First-issue is verbal by issuing officers, second is by the brandishing and repeat verbal command to abide by STC lawful order by issuing officers, third is by the non-lethal disabling and removal of said pilot from the occupied space 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjI2ODQ1MywxNDM3OTg4Njc2LC00MD
-AzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgw
-ODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX
-0=
+eyJoaXN0b3J5IjpbLTEyNDk5NzIyMjIsMTQzNzk4ODY3NiwtND
+AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
+MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
+19
 -->

@@ -37,9 +37,10 @@ The STC abides by guidelines as follows:
  - **Should an arrested pilot be incapacitated, killed, maimed or injured, they are to be escorted to medical as first priority for treatment if local treatment is not available. **
  - **Post-arrest, the individual is disarmed, handcuffed, and to be escorted by no fewer than (2) officers of law. They are to be escorted to local shuttle console and enforced to log their vessel for safe stowage, and offered no further considerations to safely stow equipment aboard their vessel. Dependent on the grade of offense, they are then handed over to station security for imprisonment, issued a demotion, fine or title stripping by the HM, and then required to abide by standard operating procedures of the harbour and station.**
  - **Should there be any resistance post arrest that can or may result in the injury, death or endangerment to other staff, officers or personnel, arresting officers are allowed to use any decided force necessary to quell resistance and complete their duties.**
- - **Should the arrested be killed a second time, **
+ - **Should the arrested be killed a second time, the privilege to save ones vessel is revoked, and the vessel can and may be dumped into local empty-space for stranding.**
+ - STANDARD STRANDING PROCEDURE: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcwMjE1NjQsMTQzNzk4ODY3NiwtND
+eyJoaXN0b3J5IjpbLTE2MDcwNjk2ODIsMTQzNzk4ODY3NiwtND
 AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
 MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
 19

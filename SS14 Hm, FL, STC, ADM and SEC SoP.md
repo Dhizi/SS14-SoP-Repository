@@ -46,11 +46,11 @@ The STC abides by guidelines as follows:
  - In the event that the address to a local space threat is handled by Freelance staff, they may be offered a financial bonus for their work dependent on threat level and time consumption. This reward is to be directed into the hands and responsibility of the HM, logged in standard bounty procedures, and paid out by them. The local-space comms channel and Freelancer comms channel is to be notified of the removal of any and all threats, and the STC is to log all threat removals and actors responsible, with any relevant information.
  - In the event that the address to a local space threat is handled by Freelance contractors, the STC may issue a financial or barter-based reward for the efforts. This reward is to be directed into the hands and responsibility of the HM, logged in standard bounty procedures, and paid out by them. The local-space comms channel and Freelancer comms channel is to be notified of the removal of any and all threats, and the STC is to log all threat removals and the actors responsible, with any relevant information.
  - The STC abides by HM-issued contraband ruling procedures, not their own. The STC should and is encouraged to communicate any issues or problems to the HM. If the STC is to encounter a local vessel that breaks standard local-space safety practices, such as visible high-grade contraband ship-weaponry, they are to inform the offending vessel pilot immediately and inform them that they are to disarm, or to be at the whim of local-space enforcement laws. Should offending vessel ignore, resist or refuse to comply, the STC may issue a decided measure of force, be it non-lethal or lethal, to be handled by Freelance staff, and if insufficient staff are unavailable, a bounty may be placed for Freelancers by the HM to fulfill and remove said vessel from offending location. Standard logging procedures follow.
- - The STC may freely navigate the harbour as necessary to fulfill their duties, alongside use their local sector-issued vessel or their own primary vesse
+ - The STC may freely navigate the harbour as necessary to fulfill their duties, alongside use their local sector-issued vessel or their own primary vessel to assist in the fulfillment
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTkwNzQ3MTcsMTQzNzk4ODY3NiwtND
-AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
-MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
-19
+eyJoaXN0b3J5IjpbODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMD
+M0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4
+NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUwMzZdfQ
+==
 -->

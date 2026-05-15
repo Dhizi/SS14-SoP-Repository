@@ -35,9 +35,10 @@ The STC abides by guidelines as follows:
  -  **In no circumstances is the arrested to be denied the right to stow and log their vessel post-arrest procedure.** 
  - ***If the arrested resists under any grounds via the use of any tools, weapons or equipment, all equipment used in resistance is to be legally confiscated and not returned to the warranted pilot. All confiscated equipment is to be logged in a document of arrest, and if any equipment listed as confiscated was not used in the act of resistance, the officer who filled the document is to be issued a fine and to be forced to return said equipment to arrested pilot.***
  - **Should an arrested pilot be incapacitated, killed, maimed or injured, they are to be escorted to medical as first priority for treatment if local treatment is not available. **
- - **Post-arrest, the individual is disarmed, handcuffed, and to be escorted by no fewer than (2) officers of law. They are to be escorted to local shuttle console and enforced to log their vessel for safe stowage, and offered no further considerations to safely stow equipment aboard their vessel. Dependent on the grade of offense, they are then handed over to station security for imprisonment, issued a demotion, fine or title stripping by the HM**
+ - **Post-arrest, the individual is disarmed, handcuffed, and to be escorted by no fewer than (2) officers of law. They are to be escorted to local shuttle console and enforced to log their vessel for safe stowage, and offered no further considerations to safely stow equipment aboard their vessel. Dependent on the grade of offense, they are then handed over to station security for imprisonment, issued a demotion, fine or title stripping by the HM, and then required to abide by standard operating procedures of the harbour and station.**
+ - **Should there be any resistance post arrest that can or may result in the injury, death or endangerment to other staff, officers or personnel, arresting officers are allowed to **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTc0NzA2NiwxNDM3OTg4Njc2LC00MD
+eyJoaXN0b3J5IjpbMTU3MDY4MTE0NywxNDM3OTg4Njc2LC00MD
 AzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgw
 ODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX
 0=

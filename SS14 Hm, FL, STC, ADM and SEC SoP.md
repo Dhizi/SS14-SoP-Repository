@@ -34,14 +34,15 @@ The STC abides by guidelines as follows:
  -  **In no circumstances is any vessel to ever be destroyed in the handling of lawful undocking procedures.**
  -  **In no circumstances is the arrested to be denied the right to stow and log their vessel post-arrest procedure.** 
  - ***If the arrested resists under any grounds via the use of any tools, weapons or equipment, all equipment used in resistance is to be legally confiscated and not returned to the warranted pilot. All confiscated equipment is to be logged in a document of arrest, and if any equipment listed as confiscated was not used in the act of resistance, the officer who filled the document is to be issued a fine and to be forced to return said equipment to arrested pilot.***
- - **Should an arrested pilot be incapacitated, killed, maimed or injured, they are to be escorted to medical as first priority for treatment if local treatment is not available. **
+ - **Should an arrested pilot be incapacitated, killed, maimed or injured, they are to be escorted to medical as first priority for treatment if local treatment is not available.**
  - **Post-arrest, the individual is disarmed, handcuffed, and to be escorted by no fewer than (2) officers of law. They are to be escorted to local shuttle console and enforced to log their vessel for safe stowage, and offered no further considerations to safely stow equipment aboard their vessel. Dependent on the grade of offense, they are then handed over to station security for imprisonment, issued a demotion, fine or title stripping by the HM, and then required to abide by standard operating procedures of the harbour and station.**
  - **Should there be any resistance post arrest that can or may result in the injury, death or endangerment to other staff, officers or personnel, arresting officers are allowed to use any decided force necessary to quell resistance and complete their duties.**
  - **Should the arrested be killed a second time, the privilege to save ones vessel is revoked, and the vessel can and may be dumped into local empty-space for stranding.**
- - *STANDARD STRANDING PROCEDURE:* A vessel is to be undocked, and safely escorted or navigated by Freelancer staff to a local empty space, to where it may not impede local flight traffic. The Freelancer staff are to then confiscate and collect ***ONLY*** loose contraband aboard the vessel. All contraband is to be logged. The vessel is to then be powered down once assured it is stationary -- logged of its final position -- and evacuated. Once stranded, the position of said vess
+ - *STANDARD STRANDING PROCEDURE:* A vessel is to be undocked, and safely escorted or navigated by Freelancer staff to a local empty space, to where it may not impede local flight traffic. The Freelancer staff are to then confiscate and collect ***ONLY*** loose contraband aboard the vessel. All contraband is to be logged. The vessel is to then be powered down once assured it is stationary -- logged of its final position -- and evacuated. Once stranded and all issuing Freelance Officers are evacuated from said vessel, they are to return to the station to resume standard duties. The logged data is to be given to the STC for archival.
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM4ODA1OTksMTQzNzk4ODY3NiwtND
-AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
-MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
-19
+eyJoaXN0b3J5IjpbLTgxNzQzNjIxNSwxNDM3OTg4Njc2LC00MD
+AzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgw
+ODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX
+0=
 -->

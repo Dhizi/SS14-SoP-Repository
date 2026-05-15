@@ -45,10 +45,10 @@ The STC abides by guidelines as follows:
  - In the event a hostile threat in local space is reported, the STC may issue an order to local Freelancers or available Freelance staff for the removal of said threat. The STC is to issue the request to staff first -- and if not sufficient numbers are available to address the request safely, the STC may issue the request to local Freelancers to address. 
  - In the event that the address to a local space threat is handled by Freelance staff, they may be offered a financial bonus for their work dependent on threat level and time consumption. This reward is to be directed into the hands and responsibility of the HM, logged in standard bounty procedures, and paid out by them. The local-space comms channel and Freelancer comms channel is to be notified of the removal of any and all threats, and the STC is to log all threat removals and actors responsible, with any relevant information.
  - In the event that the address to a local space threat is handled by Freelance contractors, the STC may issue a financial or barter-based reward for the efforts. This reward is to be directed into the hands and responsibility of the HM, logged in standard bounty procedures, and paid out by them. The local-space comms channel and Freelancer comms channel is to be notified of the removal of any and all threats, and the STC is to log all threat removals and the actors responsible, with any relevant information.
- - The STC abides by HM-issued contraband ruling procedures, not their own. The STC should and is encouraged to communicate any issues or problems to the HM. If the STC is to encounter a local vessel that breaks standard local-space safety practices, such as visible high-grade contraband ship-weaponry, they are to inform the offending vessel pilot immediately and inform them that they are to disarm, or to be at the whim of local-space enforcement laws. Should offending vessel ignore, resist or refuse to comply, the STC may issue a decided measure of force, be it l
+ - The STC abides by HM-issued contraband ruling procedures, not their own. The STC should and is encouraged to communicate any issues or problems to the HM. If the STC is to encounter a local vessel that breaks standard local-space safety practices, such as visible high-grade contraband ship-weaponry, they are to inform the offending vessel pilot immediately and inform them that they are to disarm, or to be at the whim of local-space enforcement laws. Should offending vessel ignore, resist or refuse to comply, the STC may issue a decided measure of force, be it non-lethal or lethal, to be handled by Freelance staff, and if insufficient staff are unavailable, a bounty may be placed for Freelancers by the HM<to fulfill and remove said vessel from offending location.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYyNzgzNTMsMTQzNzk4ODY3NiwtND
-AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
-MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
-19
+eyJoaXN0b3J5IjpbLTI1Mzg3MjczNiwxNDM3OTg4Njc2LC00MD
+AzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgw
+ODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX
+0=
 -->

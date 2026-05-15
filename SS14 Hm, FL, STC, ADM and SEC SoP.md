@@ -23,10 +23,13 @@ The HM abides by guidelines as follows:
 
 ## Station Traffic Controller
 
- - The STC abides by guidelines as follows:
+The STC abides by guidelines as follows:
+
+ - The STCs primary task is to be the official overseer and regulator of harbour & docking space procedure, upkeep and law enforcement. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
-U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
-OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl19
+eyJoaXN0b3J5IjpbLTIwMDE4MDIyMjUsMTQzNzk4ODY3NiwtND
+AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
+MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
+19
 -->

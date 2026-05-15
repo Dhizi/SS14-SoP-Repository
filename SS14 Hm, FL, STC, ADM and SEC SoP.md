@@ -13,6 +13,8 @@ The HM abides by guidelines as follows:
  - The HM is required to, while aboard station space, abide by the same laws as any CO would. This includes security law, and any further such laws of operation. The HM is not permitted to break or disregard any law and is held to the same standards as all Officers of power in-sector. Should a severe enough breach of right occur, the Captain or any CC representative may strip an HM of title or demote them to a lower role or status (this may be discussed between the two if the decision can be amicable and agreed upon).
  - The HM may not shirk duties of their responsibility in any measure. Should sufficient evidence be provided that an HM has failed in their responsibilities listed by SoP, any accusers may deliver a signed document listing all such failures to the Captain -- To which they may decide if action is to be taken or not. 
  - An HMs duties are complete upon shift-end, and they are free to pass-off their power and duties to next on-shift HM upon arrival at CC or the next-shift station. Should an HM seek to depart for Cryo-sleep early, die, or be incapable of serving their duties, a new HM may be assigned or arrive on-station to fill-in for the remainder of the shift. For health and standard shift practices, an HM is to not exceed two-shifts, an 8 hours of shift service per-day. Please remember you cannot fulfill your duties if you are unwell or not rested.
+ - Should any unique situation arise that causes difficulty in a decision being made, the HM may refer to a CC representative or the Captain for matters pertaining to it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbMTk5NTMyNDc1NSw2NTEzODU1MjQsMTgwND
+M2NTAzNl19
 -->

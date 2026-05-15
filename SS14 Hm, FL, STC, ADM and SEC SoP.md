@@ -21,9 +21,12 @@ The HM abides by guidelines as follows:
  - SHOULD ANY SUCH CONTRABAND BE SPOTTED, WHETHER BY ATTEMPTS OF CONCEALMENT, SEARCH & SEIZURE OR VISIBLY WORN UPON ONES PERSON -- THESE ILLEGAL ITEMS ARE TO BE CONFISCATED AND REPORTED TO SECURITY. These are the only full-enforced ban-list within harbour territory, and are to be treated as high-risk -- Staff is permitted to disarm by non-lethal, or if deemed, lethal force if necessary.
 ##
 
-##
+## Station Traffic Controller
+
+ - The STC abides by guidelines as follows:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
-QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
-NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
+U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
+OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl19
 -->

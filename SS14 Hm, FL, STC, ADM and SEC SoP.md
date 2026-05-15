@@ -38,9 +38,9 @@ The STC abides by guidelines as follows:
  - **Post-arrest, the individual is disarmed, handcuffed, and to be escorted by no fewer than (2) officers of law. They are to be escorted to local shuttle console and enforced to log their vessel for safe stowage, and offered no further considerations to safely stow equipment aboard their vessel. Dependent on the grade of offense, they are then handed over to station security for imprisonment, issued a demotion, fine or title stripping by the HM, and then required to abide by standard operating procedures of the harbour and station.**
  - **Should there be any resistance post arrest that can or may result in the injury, death or endangerment to other staff, officers or personnel, arresting officers are allowed to use any decided force necessary to quell resistance and complete their duties.**
  - **Should the arrested be killed a second time, the privilege to save ones vessel is revoked, and the vessel can and may be dumped into local empty-space for stranding.**
- - *STANDARD STRANDING PROCEDURE:* A vessel is to be undocked, and safely escorted or navigated by Freelancer staff to a local empty space, to where it may not impede local flight traffic. The Freelancer staff are to then confiscate and collect, ONLY, loose contraban
+ - *STANDARD STRANDING PROCEDURE:* A vessel is to be undocked, and safely escorted or navigated by Freelancer staff to a local empty space, to where it may not impede local flight traffic. The Freelancer staff are to then confiscate and collect ***ONLY*** loose contraband aboard the vessel. All contraband is to be logged. The vessel is to then be powered down once assured it is stationary -- logged of its final position -- and evacuated. Once stranded, the position of said vess
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI2NzUxNTcsMTQzNzk4ODY3NiwtND
+eyJoaXN0b3J5IjpbLTE1NTM4ODA1OTksMTQzNzk4ODY3NiwtND
 AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
 MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
 19

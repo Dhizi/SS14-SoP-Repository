@@ -55,11 +55,11 @@ The STC abides by guidelines as follows:
 ## Admiral & Freelance Officer Staff SoP
 The Admiral and their FL Staff abide by guidelines as follows:
 
- - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of this team is to be the representive 
+ - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow the dele
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDcwMTMyMSwxMzM4OTY4OTczLDMwOT
-I5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIx
-LC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLT
-M2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl19
+eyJoaXN0b3J5IjpbLTEyOTUyNzYxMjgsMTMzODk2ODk3MywzMD
+kyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgy
+MSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC
+0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
 -->

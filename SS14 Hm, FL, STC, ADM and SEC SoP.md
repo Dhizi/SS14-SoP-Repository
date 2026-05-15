@@ -53,10 +53,10 @@ The STC abides by guidelines as follows:
 ##
 
 ## Admiral & Freelance Officer Staff SoP
-The Admiral and their FL Staff abide by 
+The Admiral and their FL Staff abide by guidelines as follows:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzNDA1NjYsMzA5MjkxNjk5LDgwMjMzNz
-YwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1Njgs
-LTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MT
-M4NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbMTMzODk2ODk3MywzMDkyOTE2OTksODAyMz
+M3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2
+OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNj
+UxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
 -->

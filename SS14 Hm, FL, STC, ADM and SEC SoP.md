@@ -40,11 +40,11 @@ The STC abides by guidelines as follows:
  - **Should the arrested be killed a second time, the privilege to save ones vessel is revoked, and the vessel can and may be dumped into local empty-space for stranding.**
  - *STANDARD STRANDING PROCEDURE:* A vessel is to be undocked, and safely escorted or navigated by Freelancer staff to a local empty space, to where it may not impede local flight traffic. The Freelancer staff are to then confiscate and collect ***ONLY*** loose contraband aboard the vessel. All contraband is to be logged. The vessel is to then be powered down once assured it is stationary -- logged of its final position -- and evacuated. Once stranded and all issuing Freelance Officers are evacuated from said vessel, they are to return to the station to resume standard duties. The logged data is to be given to the STC for archival.
  - In the event a hostile threat in local space is reported, the STC may issue an order to local Freelancers or available Freelance staff for the removal of said threat. The STC is to issue the request to staff first -- and if not sufficient numbers are available to address the request safely, the STC may issue the request to local Freelancers to address. 
- - In the event that the address to a local space threat is handled by Freelance staff,
- - In the event that the address to a local space threat is handled by Freelance contractors, the STC may issue a financial or barter-based reward for the efforts. This reward is to be directed into the hands and responsibility of the HM, logged in standard bounty procedures, and paid out by them. The local-space comms 
+ - In the event that the address to a local space threat is handled by Freelance staff, they may be offered a financial bonus for their work dependent on threat level and time consumption. This reward is to be directed into the hands of the HM, 
+ - In the event that the address to a local space threat is handled by Freelance contractors, the STC may issue a financial or barter-based reward for the efforts. This reward is to be directed into the hands and responsibility of the HM, logged in standard bounty procedures, and paid out by them. The local-space comms channel and Freelancer comms channel is to be notified of the removal of any and all threats, and the STC is to log all threat removals and the actors responsible, with any relevant information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjI2NDE1NiwxNDM3OTg4Njc2LC00MD
-AzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgw
-ODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX
-0=
+eyJoaXN0b3J5IjpbLTE4MzcwODgzNTUsMTQzNzk4ODY3NiwtND
+AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
+MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
+19
 -->

@@ -18,8 +18,8 @@ The HM abides by guidelines as follows:
  - The HM may also follow standard arming procedures as default-dictated by general SoP of the sector, and escalate equipment and decision-making methods according to alert status. By no means is the HM allowed to be visibly, lethally armed under any status other than blue or higher. Long-arm laws are enforced -- No weapon  of such classification is permitted to be held IN-HAND unless alert status permits. 
  - Long-arms may be worn upon the back of all Freelancer & staff while aboard the harbour. Laws must be followed before portal entry equivalent to the stations current alert and SoP status ruleset. Should any Freelancer or Officer brandish any firearms aboard the harbour for any means other than self-protection or the protection of another, they are in breach of standard SoP laws.
  - The HM may request any groups or individuals to disarm or conceal equipment if they have a valid reason to. By standard, the only strictly, fully-enforced BANNED equipments list is: Any known standard galactic Antagonist equipment (Nuclear operative wear, Blood-reds, high-explosives ordnance, bombs.), Widow or any known dangerous narcotics, Stealth-class gear that has been validly identified, and any dangerous chemicals such as Romerol. 
- - SHOULD ANY SUCH CONTRABAND BE SPOTTED, WHETHER BY ATTEMPTS OF CONCEALMENT, SEARCH & SEIZURE OR VISIBLY WORN UPON ONES CHARACTER -- THESE ILLEGAL ITEMS ARE TO BE CONFISCATED AND REPORTED TO SECURIT
+ - SHOULD ANY SUCH CONTRABAND BE SPOTTED, WHETHER BY ATTEMPTS OF CONCEALMENT, SEARCH & SEIZURE OR VISIBLY WORN UPON ONES CHARACTER -- THESE ILLEGAL ITEMS ARE TO BE CONFISCATED AND REPORTED TO SECURITY. These are the only full-enforced ban-list within harbour territory, and are to be treated as high-risk -- Staff is permitted to disarm by non-lethal, or if deemed, lethal force if necessary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5MDQxNTUxLDY1MTM4NTUyNCwxODA0Mz
-Y1MDM2XX0=
+eyJoaXN0b3J5IjpbLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwND
+M2NTAzNl19
 -->

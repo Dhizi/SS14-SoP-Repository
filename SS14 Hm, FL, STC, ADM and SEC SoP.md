@@ -33,11 +33,11 @@ The STC abides by guidelines as follows:
  - By standard practices, all means of enforcement are to first be addressed non-lethally. First-issue is verbal by issuing officers, second is by the brandishing and repeat verbal command to abide by STC lawful order by issuing officers, third is by verbal issuing of their rights and final chance to comply before the non-lethal disabling and removal of said pilot from the occupied space and enforced standard undocking procedure, and fourth and final is the verbal issuing of arrest by lethal enforcement, if deemed necessary.
  -  **In no circumstances is any vessel to ever be destroyed in the handling of lawful undocking procedures.**
  -  **In no circumstances is the arrested to be denied the right to stow and log their vessel post-arrest procedure. *If arrested under any grounds relevant to resistance via the use of any tools, weapons or equipment, all equipment used in resistance is to be legally confiscated and not returned to the warranted pilot.***
- - **Should an arrested pilot be incapacitated, killed, maimed or injured, they are to be escorted to medical as f**
+ - **Should an arrested pilot be incapacitated, killed, maimed or injured, they are to be escorted to medical as first priority for treatment if local treatment is not available. **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc5MTgwMzgsMTQzNzk4ODY3NiwtND
-AwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4
-MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl
-19
+eyJoaXN0b3J5IjpbODUyMTQ3ODkxLDE0Mzc5ODg2NzYsLTQwMD
+M0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4
+NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUwMzZdfQ
+==
 -->

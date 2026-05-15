@@ -12,7 +12,7 @@ The HM abides by guidelines as follows:
  - Should any vessel be legally seized by title stripping/demotion, the HM is to log this in a document, stating the Freelancer, the reason, actions taken, and final time of ship-logging. This document is to be delivered to a CC representative upon shift completion. A demoted/stripped freelancer may contest this decision ONLY IF a CC representative is present upon the declaration. It is then placed within the CC representative jurisdiction to decide.
  - The HM is required to, while aboard station space, abide by the same laws as any CO would. This includes security law, and any further such laws of operation. The HM is not permitted to break or disregard any law and is held to the same standards as all Officers of power in-sector. Should a severe enough breach of right occur, the Captain or any CC representative may strip an HM of title or demote them to a lower role or status (this may be discussed between the two if the decision can be amicable and agreed upon).
  - The HM may not shirk duties of their responsibility in any measure. Should sufficient evidence be provided that an HM has failed in their responsibilities listed by SoP, any accusers may deliver a signed document listing all such failures to the Captain -- To which they may decide if action is to be taken or not. 
- - An HMs duties are complete upon shift-end, and they are to pass-off their 
+ - An HMs duties are complete upon shift-end, and they are to pass-off their power and duties to next on-shift HM upon arrival at CC. Should an HM seek to depart for Cryo-sleep early, die, or be incapable of serving their duties, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NjMzMzEyLDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTI3NTQ3NTQ0MiwxODA0MzY1MDM2XX0=
 -->

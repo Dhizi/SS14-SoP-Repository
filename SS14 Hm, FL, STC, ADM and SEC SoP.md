@@ -14,8 +14,9 @@ The HM abides by guidelines as follows:
  - The HM may not shirk duties of their responsibility in any measure. Should sufficient evidence be provided that an HM has failed in their responsibilities listed by SoP, any accusers may deliver a signed document listing all such failures to the Captain -- To which they may decide if action is to be taken or not. 
  - An HMs duties are complete upon shift-end, and they are free to pass-off their power and duties to next on-shift HM upon arrival at CC or the next-shift station. Should an HM seek to depart for Cryo-sleep early, die, or be incapable of serving their duties, a new HM may be assigned or arrive on-station to fill-in for the remainder of the shift. For health and standard shift practices, an HM is to not exceed two-shifts, an 8 hours of shift service per-day. Please remember you cannot fulfill your duties if you are unwell or not rested.
  - Should any unique situation arise that causes difficulty in a decision being made, the HM may refer to a CC representative or the Captain for matters pertaining to it. 
- - An HM may adjust their regulation and enforcement of Contraband check-rules by state of alert. Should an HM deem necessary a change in visible contraband status on-harbour, they are to clearly announce this to ALL staff and Freelancers present aboard the harbour, as well as over Freelancer comms channel. 
+ - An HM may adjust their regulation and enforcement of Contraband check-rules by state of alert. Should an HM deem necessary a change in visible contraband status on-harbour, they are to clearly announce this to ALL staff and Freelancers present aboard the harbour, as well as over Freelancer comms channel. Standard procedure for confiscation & return of contraband once a situation has resolved shall follow, unless deemed contraband is responsible or in relation to the purpose of raised-alert status.
+ - The HM may also follow standard arming procedures as default-dictated by general SoP of the sector.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzExMDEsNjUxMzg1NTI0LDE4MDQzNj
-UwMzZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjk2OTE3MzYsNjUxMzg1NTI0LDE4MD
+QzNjUwMzZdfQ==
 -->

@@ -118,13 +118,14 @@ The Freelancer SoP is as follows:
  - The Freelance Department exists to act as a functioning community and hub for you to re-supply, eat & drink, pick up bounties, hire crew, offer your services to the station or the harbour, or make lawful travel to the station for your own reasons. This department also exists to guarantee your rights will not be infringed upon on and off the station so long as you merely commit no crimes, or attempt to trespass on the station with illicit kit. If you abide by their regulations, they will and are obligated to do their utmost to fulfill their duties to operate as your local guardians, educators and technicians. 
  - You may acquire bounties at the harbour Bounty-board, located within the bar-space of the harbour. It will hold all posted bounties by the HM, or any other bounty-providers, ranging from other Freelancers to station staff. These bounties will range from repair duties, medical assistance, supply drops, possibly security reinforcement, filling in vacant job-positions aboard the station or harbour, and in some cases the elimination of hostile threats in-space or aboard the harbour or station. 
  - The station and its staff & resources are a privilege. Should you abide by common decency and local laws and regulations, your traffic on and off will be unimpeded, and you may freely use all resources at your disposal within the station and that its staff provide. Should you choose to be against the standards of common decency or refuse to comply with local law and regulations, or you seek to be an outlaw -- You must be aware that if your reputation precedes you, this will impede your mobility between the harbour and station.
- - By standard practices, you are not denied docking access and harbour equipment access. You are even given benefit of the doubt by Freelancer Staff and officers so that you may freely dock and un-dock at your leisure for offloading bounty, barter and trade goods, as well as socialization and anything else you can think of. 
+ - By standard practices, you are not denied docking access and harbour equipment access. You are even given benefit of the doubt by Freelancer Staff and officers so that you may freely dock and un-dock at your leisure for offloading bounty, barter and trade goods, as well as socialization and anything else you can think of. You may lose access to these privileges 
+ - The HM and their staff exist to represent the Freelancers of the sector. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0ODk4NjA1LC03NzMxMDQyOTMsOTIyMD
-Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
-LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
-I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
-ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
-YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTQ0Njg5NjA4MywtNzczMTA0MjkzLDkyMj
+A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
+LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
+EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
+LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
+c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
+MjExXX0=
 -->

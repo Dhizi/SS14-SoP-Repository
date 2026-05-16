@@ -59,16 +59,16 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
  - Weapons, armor and chemical agents are to be regulated according to HM guidelines, set by each unique HM at the start of shift. This value is the state that is applied to GREEN alert status from the station. Alert levels carry over between harbour and station. In some cases, some HMs may be lax with their Green-alert equipment restrictions and visibility -- Some HMs may not, and instead favor to have certain grade of kit out of visibility whilst aboard the harbour. It is the responsibility of the HM to notify all Freelancers by comms-link channels of their approach, this info is administered also to the Admiral and their acting Freelance officers. 
- - Freelanc
+ - Freelancers aboard the harbour are to be given one reminder upon failure to comply with HM ordered kit visibility. The staff of the Freelance Department are to regulate and inform any and all individuals who may be disrupting or not abiding by the HMs level of kit visibility regulations. 
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE0MjI2MTksMzY3NTEyNDc5LC0xNz
-A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
-OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
-E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4
-NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbMjEyNDg3MjAzNSwzNjc1MTI0NzksLTE3MD
+U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
+LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
+QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
+NTI0LDE4MDQzNjUwMzZdfQ==
 -->

@@ -60,14 +60,14 @@ The Admiral and their FL Staff abide by guidelines as follows:
 ### Harbour SoP & Operating regulations
  - Weapons, armor and chemical agents are to be regulated according to HM guidelines, set by each unique HM at the start of shift. This value is the state that is applied to GREEN alert status from the station. Alert levels carry over between harbour and station. In some cases, some HMs may be lax with their Green-alert equipment restrictions and visibility -- Some HMs may not, and instead favor to have certain grade of kit out of visibility whilst aboard the harbour. It is the responsibility of the HM to notify all Freelancers by comms-link channels of their approach, this info is administered also to the Admiral and their acting Freelance officers. 
  - Freelancers aboard the harbour are to be given one reminder upon failure to comply with HM ordered kit visibility. The staff of the Freelance Department are to regulate and inform any and all individuals who may be disrupting or not abiding by the HMs level of kit visibility regulations. Once an individual has been notified, the next time an error is to occur, they are to be fined, and if resistance is given to lawful policing, they will be liable for arrest if they do not return to their vessel and disarm. Should they be found again breaking regulatory standards aboard the harbour, the Admiral or their staff may arrest said individual for breach of conduct.
- - All arrests, fines, and warrants are to be logged by the Admiral and their staff as they 
+ - All arrests, fines, and warrants are to be logged by the Admiral and their staff as they complete them. Note the name, the reason for arrest/fine/warrant, the time of addition, and the time of completion of any relevant logs. You are to log when an individual is informed of their rights and offense, whom the offender is,
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzQzODY1OSwzNjc1MTI0NzksLTE3MD
+eyJoaXN0b3J5IjpbLTM4MDk1MzI3NCwzNjc1MTI0NzksLTE3MD
 U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
 LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
 QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1

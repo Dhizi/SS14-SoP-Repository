@@ -63,16 +63,16 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - All arrests, fines, and warrants are to be logged by the Admiral and their staff as they complete them. Note the name, the reason for arrest/fine/warrant, the time of addition, and the time of completion of any relevant logs. You are to log when an individual is informed of their rights and offense committed, whom the offender is, and any important notes relevant to the log as needed. All actions of policing that extend into lawful enforcement of harbour SoP are to be logged.
  - **Open-carry -- other than a weapon with its magazine removed/magazine tube empty and stowed upon the back -- is illegal upon the harbour unless by case of inspection, hostile non-sapient threats, or as means of self defense against antagonistic forces.** If a firearm is brandished against law-abiding Freelancers or any active department staff, an individual is given no leeway to the necessitated actions of Officers and staff if they feel they must act upon the threat. Officers are to abide by non-lethal takedown standards if no lethal attempts are made upon any life by the guilty party -- If lethal efforts are attempted, lethal response is allowed in equal for the sake of self-defense and safeguarding all law-abiding Freelancers and staff aboard the harbour.
  - **Should any firearm be brandished, the individual is given a singular warning to disarm. Should they not comply, force stated above is authorized to officers, and to follow is case-sensitive action dependent on the scenario. Act to your best authority as a judge of the situation, why it may have happened, and if it is justifiable to raise concerns past the point of arrest.** In some cases, simply disarming the individual temporarily and escorting them to a regulated and civil space can address a situation. In some cases some Freelancers may need be talked-down from certain actions, and it falls upon all staff of the Freelance Department to do their best to disarm a situation without use of weaponry or force. Respond accordingly to threats and determine if they are merely panic, fear, aggression or such further.
- - 
+ - Should any individuals be disarmed aboard the harbour, all offending equipment is to be logged alongside the individuals name, alongside the reason for the disarm (this can and may be as simple as "it does not abide by the HMs standard green-status practices"). This equipment is to be stowed away in the Contraband Armory under watch of the Admiral, and kept safe. 
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NjY1NjUyLDM2NzUxMjQ3OSwtMTcwNT
-gwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDks
-MTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4LC0xND
-I3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1
-MjQsMTgwNDM2NTAzNl19
+eyJoaXN0b3J5IjpbLTE3MTQ0MTcxMzIsMzY3NTEyNDc5LC0xNz
+A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
+OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
+E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4
+NTUyNCwxODA0MzY1MDM2XX0=
 -->

@@ -25,6 +25,7 @@ The HM abides by guidelines as follows:
 
 The STC abides by guidelines as follows:
 
+ - **The STC is of direct-rank below the HM, and takes orders from them as a superior. Rely upon your HM's guidance should confusion arise, and aim to keep them updated and notified of all docking events that are vital to track!**
  - The STCs primary task is to be the official overseer and regulator of harbour & docking space procedure, upkeep and law enforcement. They are the individual tasked with assuring that ships docked, un-docked, in local-space and within the radar system of the harbour and station are managed and directed in an orderly and safe fashion. They assure that all pilots remain coordinated and informed of dangers, follow standard harbour procedures to acquiesce a docking bay, and that all pilots obey lawful orders or requests to un-dock for Freelancer safety and to assure that the docking space and its many bays are not congested by traffic.
  - The STC is the first and final voice of authority on matters pertaining to the local space flight regulations. Should any notified pilot, by either Freelancer or Local-space comms ignore a lawful order, the STC is granted authority to issue warrant, fine, or denial of docking privileges. The STC is to make sure that all law-abiding local space pilots are given equal opportunity to use docking spaces, to assure that station staff have first-priority when it comes to docking on-station, and that Freelancers have first-priority when docking to the harbour.
  - Should it become a necessity to order a dock be freed of its current occupant, the STC may first request they abide by local STC authority and manually undock themselves from the occupied bay, and navigate to a safe distance away so that over vessels may navigate freely and safely. If this request is refused, the STC may then issue a direct order to undock, informing them of procedure rights, the reasoning of why they are being ordered to undock, and how long they have to comply before lawful enforcement will take matters into their own hands. By standard regulation, a pilot when informed of orders to undock has a duration of 5-minutes to comply (this may be modified upwards, NOT downwards. This is done to provide current dock occupant time to fulfill their current duty-tied activities and assure safe departure). 
@@ -138,11 +139,11 @@ I hope my work helps spur this. Thank ya'll for going through all of this docume
 -- Dhizi, otherwise known in-game as:
  Pez Moffit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczOTY5MjU1LC03NzMxMDQyOTMsOTIyMD
-Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
-LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
-I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
-ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
-YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTEwODEzNzgyMCw5NzM5NjkyNTUsLTc3Mz
+EwNDI5Myw5MjIwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMs
+MTU4MzcxOTIwMywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMT
+c4NTU4LDM2NzUxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTcz
+LDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMz
+QxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3
+OTFdfQ==
 -->

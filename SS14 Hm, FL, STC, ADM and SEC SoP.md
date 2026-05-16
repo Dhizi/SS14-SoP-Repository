@@ -66,7 +66,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - Freelance Officers must have sufficient firearms and weapons training. They must also have far higher standards of trigger control than standard Security officers of the station -- Your people are Freelancers, and often armed to far greater degrees than any station staff ever is. Your greatest asset as the Admiral and Officers of this department is your ability to communicate, and instill trust and confidence in the Freelancers you protect and regulate.
  - **IN ALL CONDITIONS, THE PURPOSE AND IDENTITY OF YOUR ROLES IS NOT PLAINLY SECURITY AND LAW ENFORCEMENT -- You are representatives of the best parts of Freelancers! You are educators, you are the experienced, your skills vary and your knowledge is vast, and your purpose in this role is to be role models and capable guardians of the harbour. Security is still a vital skill you are MANDATED to have -- But greater so is your skills at communication and community-building.**
 
- #### ***IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES. KNOW THAT YOU ARE MANDATED BY HARBOUR SOP TO ***
+ #### ***IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES. KNOW THAT YOU ARE MANDATED BY HARBOUR SOP TO BE AWARE OF YOUR RESPONSIBILITY TO READ THE TWO-PRIMARY RIGHTS TO HARBOUR FREELANCER/STATION STAFF.***
+ TAKE UTMOST PRIORITY IN KNOWING YOU MUST READ THESE TWO RIGHTS, 
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -104,10 +105,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNDg4OTAsMTU4MzcxOTIwMywtMTI0Nz
-U0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3OSwt
-MTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMz
-c2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4
-LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NT
-EzODU1MjQsMTgwNDM2NTAzNl19
+eyJoaXN0b3J5IjpbLTE0OTM2MDM0NjQsMTU4MzcxOTIwMywtMT
+I0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3
+OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MD
+IzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3
+NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMS
+w2NTEzODU1MjQsMTgwNDM2NTAzNl19
 -->

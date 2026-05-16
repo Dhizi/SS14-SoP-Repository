@@ -64,16 +64,17 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - **Open-carry -- other than a weapon with its magazine removed/magazine tube empty and stowed upon the back -- is illegal upon the harbour unless by case of inspection, hostile non-sapient threats, or as means of self defense against antagonistic forces.** If a firearm is brandished against law-abiding Freelancers or any active department staff, an individual is given no leeway to the necessitated actions of Officers and staff if they feel they must act upon the threat. Officers are to abide by non-lethal takedown standards if no lethal attempts are made upon any life by the guilty party -- If lethal efforts are attempted, lethal response is allowed in equal for the sake of self-defense and safeguarding all law-abiding Freelancers and staff aboard the harbour.
  - **Should any firearm be brandished, the individual is given a singular warning to disarm. Should they not comply, force stated above is authorized to officers, and to follow is case-sensitive action dependent on the scenario. Act to your best authority as a judge of the situation, why it may have happened, and if it is justifiable to raise concerns past the point of arrest.** In some cases, simply disarming the individual temporarily and escorting them to a regulated and civil space can address a situation. In some cases some Freelancers may need be talked-down from certain actions, and it falls upon all staff of the Freelance Department to do their best to disarm a situation without use of weaponry or force. Respond accordingly to threats and determine if they are merely panic, fear, aggression or such further.
  - Should any individuals be disarmed aboard the harbour, all offending equipment is to be logged alongside the individuals name, alongside the reason for the disarm (this can and may be as simple as "it does not abide by the HMs standard green-status practices"). This equipment is to be stowed away in the Contraband Armory under watch of the Admiral, and kept safe. Should the offenders behavior resolve to improve in a positive direction, equipment may be returned -- should the behavior not improve, the equipment shall remain locked away. 
- - **When disarming any individual, please notify them of these rights as follow:** "By lawful regulation of harbour protocol, you are being disarmed as you are deemed a danger to others at this time. Should you and the situation improve, your equipment shall be returned to you upon grant of the Admiral. Should you resist, the penalty is loss of offenequipment. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff.
+ - **When disarming any individual, please notify them of these rights as follow:** "By lawful regulation of harbour protocol, you are being disarmed as you are deemed a danger to others at this time. Should you and the situation improve, your equipment shall be returned to you upon grant of the Admiral. Should you resist, the penalty is loss of offending equipment. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff."
+ - **When arresting any individual, please notify them of these rights as follow:** By disregard to [apply offending action here] and through accordance of harbour SoP, you 
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgzNTg4NzQsMzY3NTEyNDc5LC0xNz
-A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
-OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
-E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4
-NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbMjAyNDMyMzk5LDM2NzUxMjQ3OSwtMTcwNT
+gwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDks
+MTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4LC0xND
+I3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1
+MjQsMTgwNDM2NTAzNl19
 -->

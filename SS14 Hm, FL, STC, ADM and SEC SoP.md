@@ -1,6 +1,6 @@
 # Freelance Department SoP
 
-## Harbor  Master
+## Harbor  Master SoP
 The HM abides by guidelines as follows:
 
  - The HMs primary task is to regulate the in-and-out flow of Freelancers aboard the station and Harbour by using delegation, while also providing Freelancers a reliable service, harbour-space and assuring that their rights are not infringed upon in any manner that is illegal. Through the means of communication, their staff, harbour upkeep, bounties and checkpoint moderation they are able to fulfill their duties to the station by sufficiently providing a reliable leader who can function as a strong communicator between Freelancer and station staff and security.
@@ -21,7 +21,7 @@ The HM abides by guidelines as follows:
  - SHOULD ANY SUCH CONTRABAND BE SPOTTED, WHETHER BY ATTEMPTS OF CONCEALMENT, SEARCH & SEIZURE OR VISIBLY WORN UPON ONES PERSON -- THESE ILLEGAL ITEMS ARE TO BE CONFISCATED AND REPORTED TO SECURITY. These are the only full-enforced ban-list within harbour territory, and are to be treated as high-risk -- Staff is permitted to disarm by non-lethal, or if deemed, lethal force if necessary.
 ##
 
-## Station Traffic Controller
+## Station Traffic Controller SoP
 
 The STC abides by guidelines as follows:
 
@@ -52,7 +52,7 @@ The STC abides by guidelines as follows:
  - Should any issues or complications arise that the STC is not assured in the decision-making of, they may request the HM assist, or any relevant department heads. 
 ##
 
-## Admiral & Freelance Officer Staff SoP
+## Admiral & Freelance Officer SoP
 The Admiral and their FL Staff abide by guidelines as follows:
 
  - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
@@ -103,14 +103,14 @@ The Admiral and their FL Staff abide by guidelines as follows:
 <font color="PINK">GAMMA</font> = CC Has issued a mass-sector order for the immediate response of an extreme-risk event. All Freelancers and Staff are to LOCK-DOWN all Harbour entrances and exits, coordinate together to assure that the Harbour is SECURE, and all Freelancers MUST COMPLY with orders issued by Freelancer Department staff. Checkpoint lockdown is paramount, and in the event that a station collapse is imminent, the harbour and all occupants are to evacuate the local space immediately. All that traverse from harbour to station are at the risk of open-fire from Security, and are encouraged to NOT LEAVE THE HARBOUR SPACE -- BUT NOT RESTRICTED FROM DOING SO SHOULD THEY CHOOSE, KNOWING THE CONSEQUENCES. Should a decision need be made on the viability and safety of the harbour, the HM or any acting, living staff officers may declare the portal to be de-powered and shut down to prevent the traversal of dangers to the harbour. **Staff and Officers are to maintain order and quell chaos on the harbour. Direct non-combat personnel to evacuating vessels, arm yourself and any willing Freelancers who have not yet armed themself, and prepare to defend the harbour or station dependent on situation. Be fully cognizant that Security has an order to likely fire upon any non-officer & non-security staff -- Do your utmost to convince Freelancers to stay aboard the harbour for their personal safety. Work with security to form a controlled parameter and coordinate with your Admiral and HoS of station accordingly. PRIORITY IS TO KEEP AS MANY PERSONNEL ALIVE AS POSSIBLE -- ENCOURAGE EVAC OR THE LOCK-DOWN OF DEFENSIBLE AND CRITICAL POSITIONS.**
 
 <font color="TAN">OMICRON ALERT</font> = DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH. **DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH.**
-
-
-
+##
+## FREELANCER SoP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1OD
-M3MTkyMDMsLTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1
-OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMD
-kyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgy
-MSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC
-0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbMTA5MzE5NDc5LDg1MTgzNTI1MiwtMTM1Nz
+E2NjgxMywxNTgzNzE5MjAzLC0xMjQ3NTQ4MzU4LDUzNjU4NzM1
+OSwyMTAxNzg1NTgsMzY3NTEyNDc5LC0xNzA1ODA4MTYxLDEzMz
+g5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OTg4Njc2
+LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMT
+MwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1
+MDM2XX0=
 -->

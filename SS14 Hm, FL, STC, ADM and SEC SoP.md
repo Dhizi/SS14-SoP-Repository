@@ -65,7 +65,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - The Admiral has the power to delegate orders to all Freelance Officers. It is a Freelance Officers duty to abide by these orders and fulfill them in as clean a means as possible. In some cases, Freelance Officers may be commandeered by the STC for means of Dock regulations and in local-space threats. Bear in mind your duties will not only bring you to defending the Harbour -- your duties will rely upon you being capable and prepared for threats in space as well. Be knowledgeable of ship-repair procedures, take care and practice into learning stronger flight training, and be adaptive, whatever the situation. 
  - Freelance Officers must have sufficient firearms and weapons training. They must also have far higher standards of trigger control than standard Security officers of the station -- Your people are Freelancers, and often armed to far greater degrees than any station staff ever is. Your greatest asset as the Admiral and Officers of this department is your ability to communicate, and instill trust and confidence in the Freelancers you protect and regulate.
  - **IN ALL CONDITIONS, THE PURPOSE AND IDENTITY OF YOUR ROLES IS NOT PLAINLY SECURITY AND LAW ENFORCEMENT -- You are representatives of the best parts of Freelancers! You are educators, you are the experienced, your skills vary and your knowledge is vast, and your purpose in this role is to be role models and capable guardians of the harbour. Security is still a vital skill you are MANDATED to have -- But greater so is your skills at communication and community-building.**
- - ***IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES***
+
+ #### ***IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES. KNOW THAT YOU ARE MANDATED BY HARBOUR SOP TO ***
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -103,7 +104,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjc3MjksMTU4MzcxOTIwMywtMTI0Nz
+eyJoaXN0b3J5IjpbNjEzNDg4OTAsMTU4MzcxOTIwMywtMTI0Nz
 U0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3OSwt
 MTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMz
 c2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4

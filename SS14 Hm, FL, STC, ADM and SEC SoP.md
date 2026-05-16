@@ -58,16 +58,16 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
  - This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
- - Weapons, armor and 
+ - Weapons, armor and chemical agents are to be regulated according to HM guidelines, set by each unique HM at the start of shift. This value is the state that is applied to GREEN alert status from the station. Alert levels carry over between harbour and station. In some cases, some HMs may be lax with their g
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQxNzY5ODAsMzY3NTEyNDc5LC0xNz
-A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
-OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
-E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4
-NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbLTk3ODEzODc0MSwzNjc1MTI0NzksLTE3MD
+U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
+LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
+QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
+NTI0LDE4MDQzNjUwMzZdfQ==
 -->

@@ -70,7 +70,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - The harbour is not a grounds for litter, debris and discharged cartridges. It is the responsibility of all occupants of the harbour to assist in the care, cleaning and upkeep of the harbour space. Please contribute to the well-being of the harbour, regardless of whom you may be.
  - Volunteer Freelancers may opt to offer to provide service to the harbour in many formats. Should any Freelancer wish to offer any of their time and services, they are to be presented to the highest authority aboard the harbour to be cleared for service. **All individuals who offer their services, for safety of official personnel safety, are to be disarmed and have their equipment stowed in the contraband armory until discussions are complete. Please notify all Freelancers of this regulation before acting further and that consent is given for the seizure of any lethal equipment.** 
  - It is the responsibility of on-harbour staff to maintain the upkeep and status of structural integrity of the station. It is common for Freelancers to assist by nature, please consider them as an equal in this service and work together. Cooperation is a foundation of Freelancer identity aboard the harbour.
- - The harbour o
+ - The harbour offers standard services of a Bounty board, bar, food & drink, fuel supply and standard ship-maintenance equipment. All other services, such as medical, munitions, epistemics, religious, engineer
  - Should any situations arise where an answer is unclear or unable to be found, please notify acting staff for assistance. 
 
 ### ADMIRAL SPECIFIC SoP
@@ -78,9 +78,9 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkwMjE2NTksMzY3NTEyNDc5LC0xNz
-A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
-OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
-E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4
-NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbLTEwNDIwODQzOCwzNjc1MTI0NzksLTE3MD
+U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
+LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
+QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
+NTI0LDE4MDQzNjUwMzZdfQ==
 -->

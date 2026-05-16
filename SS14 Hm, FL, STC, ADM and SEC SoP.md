@@ -127,15 +127,17 @@ I will be sincere in saying that with this entire new department, and the fact o
 
 I hold a lot of naievity and optimism by nature and who I am. But I choose to pursue believing that this community will grow healthier and more stable if they are to give new things a chance and to shift their perspective slightly, and give the caveat that in some cases, some identities have had more privilege and less regulation than others, which has destabilized game balance by some degree, nulled the purpose of some departments, and caused some rifts in communication between the Directorate and the players. 
 
-This SoP is designed to pull back into place balance in some places. Regulating contraband flow (which disrupts station gameplay, balance & fairness to station occupants and Security Staff), a new department to reduce the workload of Security by 33% -- the most burdened, critical and most socially draining department with the HIGHEST BURNOUT RATE assuring that Freelancers abide by the same rules all station staff, all players we know do whilst aboard the station, so that there is no longer a power disparity, a nulling of Securities purpose
+This SoP is designed to pull back into place balance in some places. Regulating contraband flow (which disrupts station gameplay, balance & fairness to station occupants and Security Staff), a new department to reduce the workload of Security by 33% -- the most burdened, critical and most socially draining department with the HIGHEST BURNOUT RATE.
 
+Assuring that Freelancers abide by the same rules all station staff, all players we know do whilst aboard the station, so that there is no longer a power disparity, a nulling of Securities purpose and identity due to the sheer armories of C3 gear that one may carry on their person in BS Bags -- This all addresses the longevity of gameplay in the server.
 
+Antagonists have fairer play. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjExODE1OCwtNzczMTA0MjkzLDkyMj
-A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
-LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
-EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
-LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
-c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
-MjExXX0=
+eyJoaXN0b3J5IjpbMzg4NzA4MTk5LC03NzMxMDQyOTMsOTIyMD
+Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
+LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
+I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
+ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
+YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
+MTFdfQ==
 -->

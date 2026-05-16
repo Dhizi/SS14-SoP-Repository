@@ -113,13 +113,13 @@ The Freelancer SoP is as follows:
  - A Freelancer need only respect: Station Alert Status, Contraband regulations and the Contraband Checkpoint searches, Station security law enforcement, and the Harbor Masters policies for their harbour. Aside from this, a Freelancer may lawfully do as they wish, but always be cognizant that although they do not follow all things a station-staffer may, they are still treated as responsible, and if guilty of committing any crime in the local-space, they are beholden to the enforcement of SoP breaches of the harbour, station, and other departments. 
  - So long as a Freelancer is aware of Harbour SoP, keeps an ear open for what is stated in local-comms and Freelancer comms channels, and simply does not endanger other sector occupants, they are free to come and go as they please.
  - By Freelancer identity, you will likely come into contact with -- or acquiesce by your own means, a large collection of rather 'exotic' equipment. You must bear awareness that high-grade Contraband is illegal aboard the sector stations, and that the harbour where you may dock and exist freely operates the singular lawful entry checkpoint to the station. 
- - No Contraband at C3 or greater 
+ - No Contraband at C3 or greater will be permitted past the harbour checkpoint that leads to the station.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUwNzI2MTEsLTc3MzEwNDI5Myw5Mj
-IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
-MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
-UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
-OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
-U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
-OTIxMV19
+eyJoaXN0b3J5IjpbMTMwMTk1OTQ4NCwtNzczMTA0MjkzLDkyMj
+A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
+LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
+EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
+LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
+c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
+MjExXX0=
 -->

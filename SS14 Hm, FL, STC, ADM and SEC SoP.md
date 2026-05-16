@@ -72,16 +72,21 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - It is the responsibility of on-harbour staff to maintain the upkeep and status of structural integrity of the station. It is common for Freelancers to assist by nature, please consider them as an equal in this service and work together. Cooperation is a foundation of Freelancer identity aboard the harbour.
  - The harbour offers standard services of a Bounty board, bar, food & drink, fuel supply and standard ship-maintenance equipment. All other services, such as medical, munitions & firearms, epistemics, religious, engineering or cargo needs are addressed by the station and its staff. 
  - **Incoming equipment and munitions -- This is equipment traversing from the station TO the harbour -- Are to be logged on inspection at checkpoint for means of keeping awareness and track of lethal equipment. Log the individual, items in question and the time of checkpoint clearance. As is standard practice, please conduct a thorough search of the individual in question should any incoming equipment be of high-grade or suspicion of relation to crime. Should a suspicion be raised, question said individual before returning their goods. If affirmation of suspicion is confirmed, please follow standard procedure dependent on context of the situation. Log all such information as well.**
- - Should any situations arise where an answer is unclear or unable to be found, please notify acting staff for assistance. 
+- Should any situations arise where an answer is unclear or unable to be found, please notify higher rank-acting staff for assistance. 
+
+##### ALERT STATUS PROTOCOL
+
+
+
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM5NDgxMTksMzY3NTEyNDc5LC0xNz
-A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
-OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
-E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4
-NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbMjEwMTc4NTU4LDM2NzUxMjQ3OSwtMTcwNT
+gwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDks
+MTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4LC0xND
+I3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1
+MjQsMTgwNDM2NTAzNl19
 -->

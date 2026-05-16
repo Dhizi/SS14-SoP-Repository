@@ -125,11 +125,13 @@ The Freelancer SoP is as follows:
 
 I will be sincere in saying that with this entire new department, and the fact of emplacing a new, clear-cut line of regulations and standards for Freelancers, that this may feel it could encroach upon Freelancer identity. I will admit that I cannot deny that this is a possibility. But, if this server wishes to persist with the goals of growth, stability and all departments functioning healthily and having their own identities, these minor regulations -- or clarifications of basic, standard-practice laws aboard the harbour and station -- serve the purpose of preventing no further infringement into the roles identity.
 
-I hold a lot of naievity and optimism by nature and who I am. But I choose to pursue believing that this community will grow healthier and more stable if they are to give new things a chance and to shift their perspective si
+I hold a lot of naievity and optimism by nature and who I am. But I choose to pursue believing that this community will grow healthier and more stable if they are to give new things a chance and to shift their perspective slightly, and give the caveat that in some cases, some identities have had more privilege and less regulation than others, which has destabilized game balance by some degree, nulled the purpose of some departments, and caused some rifts in communication between the Directorate and the players. 
+
+This SoP is designed to pull back into place balance, regulating contraband flow (which disrupts station gameplay, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTY5Nzk4OSwtNzczMTA0MjkzLDkyMj
+eyJoaXN0b3J5IjpbMTQzMTM1NDAxMywtNzczMTA0MjkzLDkyMj
 A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
 LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
 EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5

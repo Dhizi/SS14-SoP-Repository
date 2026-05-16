@@ -53,7 +53,7 @@ The STC abides by guidelines as follows:
 ##
 
 ## Admiral & Freelance Officer SoP
-The Admiral and their FL Staff abide by guidelines as follows:
+The Admiral and their FL Officers abide by guidelines as follows:
 
  - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
  -  It is the Admirals utmost priority to assure that the harbour, its occupants whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies needed, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
@@ -104,13 +104,14 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 <font color="TAN">OMICRON ALERT</font> = DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH. **DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH.**
 ##
-## FREELANCER SoP
+## Freelancer SoP
+Freelancers, the represented
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzE5NDc5LDg1MTgzNTI1MiwtMTM1Nz
-E2NjgxMywxNTgzNzE5MjAzLC0xMjQ3NTQ4MzU4LDUzNjU4NzM1
-OSwyMTAxNzg1NTgsMzY3NTEyNDc5LC0xNzA1ODA4MTYxLDEzMz
-g5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OTg4Njc2
-LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMT
-MwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1
-MDM2XX0=
+eyJoaXN0b3J5IjpbLTE2NTU5MzUyMDgsODUxODM1MjUyLC0xMz
+U3MTY2ODEzLDE1ODM3MTkyMDMsLTEyNDc1NDgzNTgsNTM2NTg3
+MzU5LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMT
+MzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2
+NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMS
+wxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQz
+NjUwMzZdfQ==
 -->

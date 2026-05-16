@@ -61,7 +61,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - All contraband seized by checkpoint staff is to be delivered to the Contraband Armory should Freelancers comply with disarming -- Otherwise, direct them to return to their ship and disarm themself. Until all C3-carried contraband is stowed, you are to deny crossing to the station, and vice versa. You must log all contraband with note of the owner, species, the contraband in question, and when it was placed in the armory. You are to then return to them their equipment when they return -- and update your log to also include time of return. 
  - The Admiral and their Officers are the Primary armed staff of the department with the responsibility to maintain harbour security, and assist the station Security team when requested. Although armed, it is important to remember that the priority of your station is to be able to efficiently communicate and talk-down hostilities, and if that fails, resort to non-lethal methods -- and again if this fails, to rely upon lethal force as your last option. 
  - The level of arming is dictated by STATION ALERT status -- Please follow accordingly and maintain clear channels of communication with both unaware staff and Freelancers. Understand in low-level alerts, arming procedures differ between staff and Freelancers by default. 
- - **IN ANY SITUATION WHERE AN ALERT RAISES WEAPON RESTRICTIONS -- YOU MUST STILL RETAIN PROPER FIREARM TRAINING AND CONTROL.** Freelancers are your people -- They are often well-armed and well trained for combat, among many other assorted skill
+ - **IN ANY SITUATION WHERE AN ALERT RAISES WEAPON RESTRICTIONS -- YOU MUST STILL RETAIN PROPER FIREARM TRAINING AND CONTROL.** Freelancers are your people -- They are often well-armed and well trained for combat, among many other assorted skills. **KNOW AND GET TO LEARN YOUR COMMUNITY AND ITS PEOPLE -- THIS WILL GREATLY REDUCE INCIDENTAL HARM AND ALLOW YOU TO COORDINATE RAPIDLY IN THE FUTURE WHEN THE TIME CALLS.**
+ - The Admiral has the power to delegate orders to all Freelance Officers. It is a Freelance Officers duty to abide by these orders and fulfill them in as clean a means as possible. In some c
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -99,10 +100,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MDczNzQ2LDE1ODM3MTkyMDMsLTEyND
-c1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0Nzks
-LTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMz
-M3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2
-OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNj
-UxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbMTk4Mjg3NDU3OSwxNTgzNzE5MjAzLC0xMj
+Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
+LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
+MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1
+NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLD
+Y1MTM4NTUyNCwxODA0MzY1MDM2XX0=
 -->

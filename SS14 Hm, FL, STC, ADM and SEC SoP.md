@@ -109,14 +109,13 @@ Freelancers, the people the Freelance Department is built around, have a much mo
 
 The Freelancer SoP is as follows:
 
- - A Freelancer is a known and registered free-contractor of the local sector space. They have abided by and signed an agreement with CC and in coordination, the HM of the 
-
+ - A Freelancer is a known and registered free-contractor of the local sector space. They have abided by and signed an agreement with CC and in coordination, the HM of the acting local-space stations. This contractual agreement has allowed them to exist as an entity within this sectors space who may, and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjkyMTcwMjQsOTIyMDY1NTAsODUxOD
-M1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMsLTEyNDc1NDgz
-NTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MD
-U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
-LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
-QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
-NTI0XX0=
+eyJoaXN0b3J5IjpbMjAyMTYwODY1NSw5MjIwNjU1MCw4NTE4Mz
+UyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIwMywtMTI0NzU0ODM1
+OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3OSwtMTcwNT
+gwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDks
+MTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4LC0xND
+I3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1
+MjRdfQ==
 -->

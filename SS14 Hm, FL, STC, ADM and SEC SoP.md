@@ -69,8 +69,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  #### ***IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES. KNOW THAT YOU ARE MANDATED BY HARBOUR SOP TO BE AWARE OF YOUR RESPONSIBILITY TO READ THE THREE-PRIMARY RIGHTS TO HARBOUR FREELANCER/STATION STAFF.***
  TAKE UTMOST PRIORITY IN KNOWING YOU MUST STATE THE GIVEN RIGHTS TO ALL INDIVIDUALS ARRESTED & DISARMED. FAILURE TO DO SO WILL BE ADDRESSED BY THE SHIFT HARBOR MASTER AND YOUR ADMIRAL.
 - **When disarming any individual who has committed a crime, resisted a lawful arrest or seizure of goods, please notify them of these rights as follow:** "By lawful regulation of harbour protocol, you are being disarmed as you are deemed a danger to others at this time. Should you and the situation improve, your equipment shall be returned to you upon grant of the Admiral. Should you resist, the penalty is loss of offending equipment and possible imprisonment. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff."
-- **When disarming any individual who lawfully abides standard checkpoint disarming practices, please notify them these rights as follow:** Thank you for your 
- - **When arresting any individual, please notify them of these rights as follow:** By disregard to [apply offending action here] and through accordance of harbour SoP, you are placed under arrest and to be either given chance to speak with the HM on your offense if you comply lawfully, or delivered to security with warrant of arrest. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff."
+- **When disarming any individual who lawfully abides standard checkpoint disarming practices, please notify them these rights as follow:** "Thank you for your cooperation. Your equipment will be stowed in the armory safely and will await your return."
+ - **When arresting any individual, please notify them of these rights as follow:** "By disregard to [apply offending action here] and through accordance of harbour SoP, you are placed under arrest and to be either given chance to speak with the HM on your offense if you comply lawfully from this point forward, or delivered to security with warrant of arrest. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff."
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -106,10 +106,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDA4OTE2NCwxNTgzNzE5MjAzLC0xMj
-Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
-LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
-MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1
-NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLD
-Y1MTM4NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbNDQxMTY1MTgyLDE1ODM3MTkyMDMsLTEyND
+c1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0Nzks
+LTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMz
+M3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2
+OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNj
+UxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
 -->

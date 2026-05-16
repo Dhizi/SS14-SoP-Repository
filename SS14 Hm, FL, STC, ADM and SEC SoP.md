@@ -62,7 +62,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - The Admiral and their Officers are the Primary armed staff of the department with the responsibility to maintain harbour security, and assist the station Security team when requested. Although armed, it is important to remember that the priority of your station is to be able to efficiently communicate and talk-down hostilities, and if that fails, resort to non-lethal methods -- and again if this fails, to rely upon lethal force as your last option. 
  - The level of arming is dictated by STATION ALERT status -- Please follow accordingly and maintain clear channels of communication with both unaware staff and Freelancers. Understand in low-level alerts, arming procedures differ between staff and Freelancers by default. 
  - **IN ANY SITUATION WHERE AN ALERT RAISES WEAPON RESTRICTIONS -- YOU MUST STILL RETAIN PROPER FIREARM TRAINING AND CONTROL.** Freelancers are your people -- They are often well-armed and well trained for combat, among many other assorted skills. **KNOW AND GET TO LEARN YOUR COMMUNITY AND ITS PEOPLE -- THIS WILL GREATLY REDUCE INCIDENTAL HARM AND ALLOW YOU TO COORDINATE RAPIDLY IN THE FUTURE WHEN THE TIME CALLS.**
- - The Admiral has the power to delegate orders to all Freelance Officers. It is a Freelance Officers duty to abide by these orders and fulfill them in as clean a means as possible. In some cases, Freelance Officers may be commandeered by the STC for means of Dock regulations and in local-space threats. Bear in mind your duties will not only bring you to defending the Harbour -- your duties will rely upon you being capable and prepared for threats in space as well. Be knowledgea
+ - The Admiral has the power to delegate orders to all Freelance Officers. It is a Freelance Officers duty to abide by these orders and fulfill them in as clean a means as possible. In some cases, Freelance Officers may be commandeered by the STC for means of Dock regulations and in local-space threats. Bear in mind your duties will not only bring you to defending the Harbour -- your duties will rely upon you being capable and prepared for threats in space as well. Be knowledgeable of ship-repair procedures, take care and practice into learning stronger flight training, and be adaptive, whatever the situation. 
+ - Freelance Officers
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -100,10 +101,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1Nzg3MjI1LDE1ODM3MTkyMDMsLTEyND
-c1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0Nzks
-LTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMz
-M3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2
-OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNj
-UxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjkxNDY2MjksMTU4MzcxOTIwMywtMT
+I0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3
+OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MD
+IzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3
+NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMS
+w2NTEzODU1MjQsMTgwNDM2NTAzNl19
 -->

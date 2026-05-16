@@ -106,12 +106,17 @@ The Admiral and their FL Officers abide by guidelines as follows:
 ##
 ## Freelancer SoP
 Freelancers, the people the Freelance Department is built around, have a much more straight-forward SoP to abide by. This is to enforce that their rights as individuals are not infringed, and that instead, this SoP sets a baseline expectation for all Freelancers to be aware of, so that they may act accordingly and choose the life they wish to live -- whether within the community built by them and this department, or on their own, simply abiding by the most bare-bones of rules.
+
+The Freelancer SoP is as follows:
+
+ - A Freelancer is a known and registered free-contractor of the local sector space. They have abided by and signed an agreement with CC and in coordination, the HM of the 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMDY1NTAsODUxODM1MjUyLC0xMzU3MT
-Y2ODEzLDE1ODM3MTkyMDMsLTEyNDc1NDgzNTgsNTM2NTg3MzU5
-LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMTMzOD
-k2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2NzYs
-LTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMz
-A5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUw
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjkyMTcwMjQsOTIyMDY1NTAsODUxOD
+M1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMsLTEyNDc1NDgz
+NTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MD
+U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
+LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
+QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
+NTI0XX0=
 -->

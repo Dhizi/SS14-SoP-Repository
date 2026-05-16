@@ -76,7 +76,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 ##### ALERT STATUS PROTOCOL
 <font color="GREEN">GREEN</font> = Abide by HM-declared visible kit regulations. By default, no firearms are to be loaded, in-hand, brandished or visible on person other than a PDW upon ones back or pockets. All magazines are to be unloaded, and the chamber of all firearms open and empty, setting the firearm to safe. Officers may request confirmation of weapon status, and be affirmed that a firearm is at the active time not loaded or prepared for lethal force. Compliance is affirmed by simply providing the officer a means to identify the weapon is disabled. **Officers are permitted to always have a PDW present upon their person, loaded, but stowed away upon back or within a pocket/vest. Standard protocol of non-lethal priority standard is enforced. Officers may not brandish weaponry without probable cause.**
-<font color="BLUE">BLUE</font> = Personal protection equipment may be worn and visible on person, of no grade higher than C2. Long-arms are not to be brandished unless a threat is presented as a danger to said individual. Firearms may now be loaded, and chambers may be closed. Brandishing a firearm upon known staff is an offense and will be responded with accordingly. Staff are not an endangerment to any on-harbour Freelancers or station staff 
+<font color="BLUE">BLUE</font> = Personal protection equipment may be worn and visible on person, of no grade higher than C2. All weaponry is to be kept upon ones back or in pocke  Long-arms are not to be brandished unless a threat is presented as a danger to said individual. Firearms may now be loaded, and chambers may be closed. Brandishing a firearm upon known staff is an offense and will be responded with accordingly. Department of Freelancer staff are not an endangerment to any on-harbour Freelancers or station staff, and to threaten their safety is a breach of standard harbour SoP. 
 
 
 ### ADMIRAL SPECIFIC SoP
@@ -84,9 +84,9 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDI3NjM4Miw1MzY1ODczNTksMjEwMT
-c4NTU4LDM2NzUxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTcz
-LDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMz
-QxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3
-OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl19
+eyJoaXN0b3J5IjpbOTc4Njg1MTE2LDUzNjU4NzM1OSwyMTAxNz
+g1NTgsMzY3NTEyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMs
+MzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzND
+E4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5
+MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX0=
 -->

@@ -127,15 +127,15 @@ I will be sincere in saying that with this entire new department, and the fact o
 
 I hold a lot of naievity and optimism by nature and who I am. But I choose to pursue believing that this community will grow healthier and more stable if they are to give new things a chance and to shift their perspective slightly, and give the caveat that in some cases, some identities have had more privilege and less regulation than others, which has destabilized game balance by some degree, nulled the purpose of some departments, and caused some rifts in communication between the Directorate and the players. 
 
-This SoP is designed to pull back into place balance in some places. Regulating contraband flow (which disrupts station gameplay, balance & fairness to station occupants and Security Staff), a ne 
+This SoP is designed to pull back into place balance in some places. Regulating contraband flow (which disrupts station gameplay, balance & fairness to station occupants and Security Staff), a new department to reduce the workload of Security by 33% -- the most burdened, critical and most socially draining department with the HIGHEST BURNOUT RATE -- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0ODc1NzgyLC03NzMxMDQyOTMsOTIyMD
-Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
-LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
-I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
-ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
-YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTgwODYwMDEsLTc3MzEwNDI5Myw5Mj
+IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
+MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
+UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
+OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
+U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
+OTIxMV19
 -->

@@ -116,13 +116,13 @@ The Freelancer SoP is as follows:
  - No Contraband at C3 or greater will be permitted past the harbour checkpoint that leads to the station, except in rare cases of Red Alert status and above. To pass the checkpoint normally and lawfully, you must abide by a quick bag & pocket search handled by the officers of the harbour. You need not worry most times about your worn or carried gear while aboard the harbour (so long as you abide by harbour Alert Status Protocol and the HM's standard practice), but the moment you seek to navigate to the station, you must disarm-down all C3 or greater contraband equipment off of your person.
  - Your C3 contraband may be left with harbour Officers at the checkpoint, stored in the Contraband Armory. Your equipment will be logged, kept safe, and once you are done with whatever activities you seek to do on the station, you may return to the checkpoint, re-obtain your kit, and go about your day aboard the harbour onto your vessel. Otherwise, if you do not seek to disarm yourself at the checkpoint, you may return to your vessel, disarm, and return to the checkpoint for another search -- and once cleared, you may proceed with your travel to the station.
  - The Freelance Department exists to act as a functioning community and hub for you to re-supply, eat & drink, pick up bounties, hire crew, offer your services to the station or the harbour, or make lawful travel to the station for your own reasons. This department also exists to guarantee your rights will not be infringed upon on and off the station so long as you merely commit no crimes, or attempt to trespass on the station with illicit kit. If you abide by their regulations, they will and are obligated to do their utmost to fulfill their duties to operate as your local guardians, educators and technicians. 
- - 
+ - You may acquire bounties at the harbour Bounty-board, located within the bar-space. It will hold all posted bounties by the HM, or any other bounty-providers, ranging from other Freelancers to station staff. These bounties will range from repair duties, medical assistance, supply drops, possibly security reinforcement, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1ODc0Nzg1LC03NzMxMDQyOTMsOTIyMD
-Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
-LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
-I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
-ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
-YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
-MTFdfQ==
+eyJoaXN0b3J5IjpbMzY4MDAwOSwtNzczMTA0MjkzLDkyMjA2NT
+UwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAzLC0x
+MjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyND
+c5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgw
+MjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MD
+c1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjEx
+XX0=
 -->

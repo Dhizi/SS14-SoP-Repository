@@ -67,14 +67,15 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - **When disarming any individual, please notify them of these rights as follow:** "By lawful regulation of harbour protocol, you are being disarmed as you are deemed a danger to others at this time. Should you and the situation improve, your equipment shall be returned to you upon grant of the Admiral. Should you resist, the penalty is loss of offending equipment. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff."
  - **When arresting any individual, please notify them of these rights as follow:** By disregard to [apply offending action here] and through accordance of harbour SoP, you are placed under arrest and to be either given chance to speak with the HM on your offense if you comply lawfully, or delivered to security with warrant of arrest. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff."
  - Should a case be raised by any officer or staff in relevancy to the mental wellness or cognitive status of any individual within the harbour space, all responding staff and officers (or relevant knowledgeable freelancers to the individual) may request to escort them to local medical services aboard the station for an evaluation. Standard checkpoint disarm practices will follow, and it is imperative to give ample care and respect to said individual. Once in the care of the Medical department, all parties may return to their duties/go about their day as normal. Should the individual in question require escort back to harbour-space post evaluation and treatment, officers should be implored to assist in the request. Otherwise, medical personnel may escort them to the checkpoint and give a documented or verbal update to the individuals status. Please respond accordingly post this notification.
- - The harbour is not a grounds for litter, debris and discharged cartridges.
+ - The harbour is not a grounds for litter, debris and discharged cartridges. It is the responsibility of all occupants of the harbour to assist in the care, cleaning and upkeep of the harbour space. Please contribute to the well-being of the harbour, regardless of whom you may be.
+ - Volunteer Freelancers may opt to offer to provide service to the harbour in many formats. Should any Freelancer wish to offer 
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDYzNjQxNywzNjc1MTI0NzksLTE3MD
+eyJoaXN0b3J5IjpbLTM5ODc0OTMzOSwzNjc1MTI0NzksLTE3MD
 U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
 LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
 QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1

@@ -89,7 +89,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 - Should any situations arise where an answer is unclear or unable to be found, please notify higher-rank staff for assistance. 
 ##
 ## ALERT STATUS PROTOCOL
-<font color="GREEN">GREEN ALERT</font> = Abide by HM-declared visible kit regulations. By default, no firearms are to be loaded, in-hand, brandished or visible on person other than a PDW upon ones back or pockets. All magazines are to be unloaded, and the chamber of all firearms open and empty, setting the firearm to safe. Officers may request confirmation of weapon status, and be affirmed that a firearm is at the active time not loaded or prepared for lethal force. Compliance is affirmed by simply providing the officer a means to identify the weapon is disabled. **Officers are permitted to always have a PDW present upon their person, loaded, but stowed away upon back or within a pocket/vest. Standard protocol of non-lethal priority is enforced. Officers may not brandish weaponry without probable cause or endangerment to themself or harbour occupants.**
+<font color="GREEN">GREEN ALERT</font> = Abide by HM-declared visible kit regulations. By default, no firearms are to be loaded, in-hand, brandished or visible on person other than a PDW upon ones back or pockets. All magazines are to be unloaded, and the chamber of all firearms open and empty, setting the firearm to safe. Officers may request confirmation of weapon status, and be affirmed that a firearm is at the active time not loaded or prepared for lethal force. Compliance is affirmed by simply providing the officer a means to identify the weapon is disabled. **Officers are permitted to always have a PDW present upon their person, loaded, but stowed away upon back or within a pocket/vest. Standard protocol of non-lethal priority is enforced. Officers may not brandish weaponry without probable cause or worry of endangerment to themself or harbour occupants.**
 
 <font color="BLUE">BLUE ALERT</font> = Personal protection equipment may be worn and visible on person, of no grade higher than C2. All weaponry is to be kept upon ones back or in pocket/vest unless a threat is presented.  Long-arms are not to be brandished unless a threat is presented as a danger to said individual. Firearms may now be loaded, and chambers may be closed. Brandishing a firearm upon known staff is an offense and will be responded with accordingly. Department of Freelancer staff are not an endangerment to any on-harbour Freelancers or station staff, and to threaten their safety is a breach of standard harbour SoP. **Officers are permitted to wield and display long-arms, standard firearms & kit for sake of harbour safety. Standard protocol of non-lethal priority is enforced. Probable cause is necessitated to ever brandish a firearm upon any harbour occupants. It is an officers duty to be responsible with equipment that is lethal.**
 
@@ -106,10 +106,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzEwODE0NSwxNTgzNzE5MjAzLC0xMj
-Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
-LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
-MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1
-NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLD
-Y1MTM4NTUyNCwxODA0MzY1MDM2XX0=
+eyJoaXN0b3J5IjpbLTEzNTcxNjY4MTMsMTU4MzcxOTIwMywtMT
+I0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3
+OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MD
+IzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3
+NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMS
+w2NTEzODU1MjQsMTgwNDM2NTAzNl19
 -->

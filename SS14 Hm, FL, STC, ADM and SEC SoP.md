@@ -64,7 +64,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - **IN ANY SITUATION WHERE AN ALERT RAISES WEAPON RESTRICTIONS -- YOU MUST STILL RETAIN PROPER FIREARM TRAINING AND CONTROL.** Freelancers are your people -- They are often well-armed and well trained for combat, among many other assorted skills. **KNOW AND GET TO LEARN YOUR COMMUNITY AND ITS PEOPLE -- THIS WILL GREATLY REDUCE INCIDENTAL HARM AND ALLOW YOU TO COORDINATE RAPIDLY IN THE FUTURE WHEN THE TIME CALLS.**
  - The Admiral has the power to delegate orders to all Freelance Officers. It is a Freelance Officers duty to abide by these orders and fulfill them in as clean a means as possible. In some cases, Freelance Officers may be commandeered by the STC for means of Dock regulations and in local-space threats. Bear in mind your duties will not only bring you to defending the Harbour -- your duties will rely upon you being capable and prepared for threats in space as well. Be knowledgeable of ship-repair procedures, take care and practice into learning stronger flight training, and be adaptive, whatever the situation. 
  - Freelance Officers must have sufficient firearms and weapons training. They must also have far higher standards of trigger control than standard Security officers of the station -- Your people are Freelancers, and often armed to far greater degrees than any station staff ever is. Your greatest asset as the Admiral and Officers of this department is your ability to communicate, and instill trust and confidence in the Freelancers you protect and regulate.
- - **IN ALL CONDITIONS, THE PURPOSE AND IDENTITY OF YOUR ROLES IS NOT PLAINLY SECURITY AND LAW ENFORCEMENT -- You are representatives of the best parts of Freelancers! You are educators, you are the experienced, your skills vary and your knowledge is vast, and your purp**
+ - **IN ALL CONDITIONS, THE PURPOSE AND IDENTITY OF YOUR ROLES IS NOT PLAINLY SECURITY AND LAW ENFORCEMENT -- You are representatives of the best parts of Freelancers! You are educators, you are the experienced, your skills vary and your knowledge is vast, and your purpose in this role is to be role models and capable guardians of the harbour. Security is still a vital skill you are MANDATED to have -- But greater so is your skills at communication and community-building.**
+ - 
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -102,7 +103,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEyOTY1OSwxNTgzNzE5MjAzLC0xMj
+eyJoaXN0b3J5IjpbMTg1NDY5Njg1MCwxNTgzNzE5MjAzLC0xMj
 Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
 LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
 MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1

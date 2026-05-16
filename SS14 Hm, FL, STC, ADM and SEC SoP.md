@@ -56,7 +56,11 @@ The STC abides by guidelines as follows:
 The Admiral and their FL Staff abide by guidelines as follows:
 
  - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
- - This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
+ -  It is the Admirals utmost priority to assure that the harbour, its occupants whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies needed, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
+ - You are the primary regulators of the harbour Checkpoint. The Admiral & the Officers conduct quick bag & pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within your station. 
+ - All contraband seized by checkpoint staff is to be delivered to the Contraband Armory should Freelancers comply with disarming -- Otherwise, direct them to return to their ship and disarm themself. Until all C3-carried contraband is stowed, you are to deny crossing to the station, and vice versa. 
+
+ -This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
  - Weapons, armor and chemical agents are to be regulated according to HM guidelines, set by each unique HM at the start of shift. This value is the state that is applied to GREEN alert status from the station. Alert levels carry over between harbour and station. In some cases, some HMs may be lax with their Green-alert equipment restrictions and visibility -- Some HMs may not, and instead favor to have certain grade of kit out of visibility whilst aboard the harbour. It is the responsibility of the HM to notify all Freelancers by comms-link channels of their approach, this info is administered also to the Admiral and their acting Freelance officers. 
  - Freelancers aboard the harbour are to be given one reminder upon failure to comply with HM ordered kit visibility. The staff of the Freelance Department are to regulate and inform any and all individuals who may be disrupting or not abiding by the HMs level of kit visibility regulations. Once an individual has been notified, the next time an error is to occur, they are to be fined, and if resistance is given to lawful policing, they will be liable for arrest if they do not return to their vessel and disarm. Should they be found again breaking regulatory standards aboard the harbour, the Admiral or their staff may arrest said individual for breach of conduct.
@@ -89,17 +93,13 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 <font color="TAN">OMICRON ALERT</font> = DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH. **DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH.**
 
-### ADMIRAL  & FL Officer SoP
 
- - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
- - You are the primary regulator of the harbour Checkpoint by delegating your Officers. You & the Officers conduct quick bag & pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within your station. 
- - All contraband seized by checkpoint staff is to be delivered to the Contraband Armory should Freelancers comply with disarming -- Otherwise, direct them to return to their ship and disarm themself. Until all C3-carried contraband is stowed, you are to deny crossing to the station, and vice versa. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MDg2MTcwLDE1ODM3MTkyMDMsLTEyND
-c1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0Nzks
-LTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMz
-M3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2
-OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNj
-UxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbMTQzMjUzNzcxOSwxNTgzNzE5MjAzLC0xMj
+Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
+LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
+MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1
+NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLD
+Y1MTM4NTUyNCwxODA0MzY1MDM2XX0=
 -->

@@ -66,8 +66,9 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - Freelance Officers must have sufficient firearms and weapons training. They must also have far higher standards of trigger control than standard Security officers of the station -- Your people are Freelancers, and often armed to far greater degrees than any station staff ever is. Your greatest asset as the Admiral and Officers of this department is your ability to communicate, and instill trust and confidence in the Freelancers you protect and regulate.
  - **IN ALL CONDITIONS, THE PURPOSE AND IDENTITY OF YOUR ROLES IS NOT PLAINLY SECURITY AND LAW ENFORCEMENT -- You are representatives of the best parts of Freelancers! You are educators, you are the experienced, your skills vary and your knowledge is vast, and your purpose in this role is to be role models and capable guardians of the harbour. Security is still a vital skill you are MANDATED to have -- But greater so is your skills at communication and community-building.**
 ##
- #### ***IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES. KNOW THAT YOU ARE MANDATED BY HARBOUR SOP TO BE AWARE OF YOUR RESPONSIBILITY TO READ THE THREE-PRIMARY RIGHTS TO HARBOUR FREELANCER/STATION STAFF.***
- TAKE UTMOST PRIORITY IN KNOWING YOU MUST STATE THE GIVEN RIGHTS TO ALL INDIVIDUALS ARRESTED & DISARMED. FAILURE TO DO SO WILL BE ADDRESSED BY THE SHIFT HARBOR MASTER AND YOUR ADMIRAL.
+ #### IT IS PARAMOUNT YOU KNOW AND UNDERSTAND YOUR HARBOUR SOP, OPERATING REGULATIONS AND ALERT STATUS CODES AND RESPONSES. YOU NEED ALSO BE EXPERIENCED IN KNOWING YOUR CRIME CODES, OTHERWISE KNOWN AS SPACE LAW. 
+#### KNOW THAT YOU ARE MANDATED BY HARBOUR SOP TO BE AWARE OF YOUR RESPONSIBILITY TO READ THE THREE-PRIMARY RIGHTS TO HARBOUR FREELANCER/STATION STAFF.
+ #### TAKE UTMOST PRIORITY IN KNOWING YOU MUST STATE THE GIVEN RIGHTS TO ALL INDIVIDUALS ARRESTED & DISARMED. FAILURE TO DO SO WILL BE ADDRESSED BY THE SHIFT HARBOR MASTER AND YOUR ADMIRAL.
 - **When disarming any individual who has committed a crime, resisted a lawful arrest or seizure of goods, please notify them of these rights as follow:** -- "By lawful regulation of harbour protocol, you are being disarmed as you are deemed a danger to others at this time. Should you and the situation improve, your equipment shall be returned to you upon grant of the Admiral. Should you resist, the penalty is loss of offending equipment and possible imprisonment. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff member."
 - **When disarming any individual who lawfully abides standard checkpoint disarming practices, please notify them these rights as follow:** -- "Thank you for your cooperation. Your equipment will be stowed in the armory safely and will await your return."
  - **When arresting any individual, please notify them of these rights as follow:** -- "By disregards to *[apply offending action here]* and through accordance of harbour SoP, you are placed under arrest and to be either given chance to speak with the HM on your offense if you comply lawfully from this point forward, or delivered to security with warrant of arrest: *[insert warrant issued here]*. Comply, and we will see to it that you are given equal consideration as a Freelancer/Staff member."
@@ -106,10 +107,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTcxNjY4MTMsMTU4MzcxOTIwMywtMT
-I0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3
-OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MD
-IzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3
-NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMS
-w2NTEzODU1MjQsMTgwNDM2NTAzNl19
+eyJoaXN0b3J5IjpbMTYwMDA4NDM1OCwtMTM1NzE2NjgxMywxNT
+gzNzE5MjAzLC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1
+NTgsMzY3NTEyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMz
+A5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4
+MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MS
+wtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1MDM2XX0=
 -->

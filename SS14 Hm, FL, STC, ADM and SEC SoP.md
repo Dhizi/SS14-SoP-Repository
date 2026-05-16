@@ -77,7 +77,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 ##### ALERT STATUS PROTOCOL
 <font color="GREEN">GREEN</font> = Abide by HM-declared visible kit regulations. By default, no firearms are to be loaded, in-hand, brandished or visible on person other than a PDW upon ones back or pockets. All magazines are to be unloaded, and the chamber of all firearms open and empty, setting the firearm to safe. Officers may request confirmation of weapon status, and be affirmed that a firearm is at the active time not loaded or prepared for lethal force. Compliance is affirmed by simply providing the officer a means to identify the weapon is disabled. **Officers are permitted to always have a PDW present upon their person, loaded, but stowed away upon back or within a pocket/vest. Standard protocol of non-lethal priority is enforced. Officers may not brandish weaponry without probable cause.**
 <font color="BLUE">BLUE</font> = Personal protection equipment may be worn and visible on person, of no grade higher than C2. All weaponry is to be kept upon ones back or in pocket/vest unless a threat is presented.  Long-arms are not to be brandished unless a threat is presented as a danger to said individual. Firearms may now be loaded, and chambers may be closed. Brandishing a firearm upon known staff is an offense and will be responded with accordingly. Department of Freelancer staff are not an endangerment to any on-harbour Freelancers or station staff, and to threaten their safety is a breach of standard harbour SoP. **Officers are permitted to wield and display long-arms and standard firearms & kit for sake of harbour safety. Standard protocol of non-lethal priority is enforced. Probable cause is necessitated to ever brandish a firearm upon any harbour occupants. It is an officers duty to be responsible with equipment that is lethal.**
-<font color="RED">RED</font> = All restrictions are raised on standards of equipping and protecting oneself. It is imperative that you do not endanger innocent lives, and that such upstep of arming is done for the purpose of protecting yourself and non-combat 
+<font color="RED">RED</font> = All restrictions are raised on standards of equipping and protecting oneself. It is imperative that you do not endanger innocent lives, and that such upstep of arming is done for the purpose of protecting yourself and non-combat personnel. C3 equipment is qualified as visible, weapons may be loaded, and all individuals whom are armed may only brandish upon known, active threats to the station, harbour, and its people. Comply and cooperate with your Freelance staff and officers to protect both the harbour and station, and communicate openly and clearly should any confusion a
 
 
 ### ADMIRAL SPECIFIC SoP
@@ -85,7 +85,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzc4NDU2Miw1MzY1ODczNTksMjEwMT
+eyJoaXN0b3J5IjpbLTQ5MjI2MTEyNiw1MzY1ODczNTksMjEwMT
 c4NTU4LDM2NzUxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTcz
 LDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMz
 QxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3

@@ -105,13 +105,13 @@ The Admiral and their FL Officers abide by guidelines as follows:
 <font color="TAN">OMICRON ALERT</font> = DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH. **DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH.**
 ##
 ## Freelancer SoP
-Freelancers, the people the Freelance Department is built around, have a much more straight-forward SoP to abide by. This is to enforce that their rights as individuals are not infringed, and that instead, this SoP sets a baseline expectation for all Freelancers to be aware of, so that they may act accordingly and choose the life they wish to live -- whether within the community built by them and this department, 
+Freelancers, the people the Freelance Department is built around, have a much more straight-forward SoP to abide by. This is to enforce that their rights as individuals are not infringed, and that instead, this SoP sets a baseline expectation for all Freelancers to be aware of, so that they may act accordingly and choose the life they wish to live -- whether within the community built by them and this department, or on their own, simply abiding by the most bare-bones of rules.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIxMjI1NzMsODUxODM1MjUyLC0xMz
-U3MTY2ODEzLDE1ODM3MTkyMDMsLTEyNDc1NDgzNTgsNTM2NTg3
-MzU5LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMT
-MzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2
-NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMS
-wxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQz
-NjUwMzZdfQ==
+eyJoaXN0b3J5IjpbOTIyMDY1NTAsODUxODM1MjUyLC0xMzU3MT
+Y2ODEzLDE1ODM3MTkyMDMsLTEyNDc1NDgzNTgsNTM2NTg3MzU5
+LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMTMzOD
+k2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2NzYs
+LTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMz
+A5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUw
+MzZdfQ==
 -->

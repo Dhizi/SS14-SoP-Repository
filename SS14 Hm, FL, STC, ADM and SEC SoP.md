@@ -131,13 +131,15 @@ This SoP is designed to pull back into place balance in some places. Regulating 
 
 Assuring that Freelancers abide by the same rules all station staff, all players we know do whilst aboard the station, so that there is no longer a power disparity, a nulling of Securities purpose and identity due to the sheer armories of C3 gear that one may carry on their person in BS Bags -- This all addresses the longevity of gameplay in the server.
 
-Antagonists have fairer play. Security can do their job of station regulation without interference of Freelancers or avoid one of the more painful points of this servers Persistence -- Loss of Equipment -- All because they are doing their job to confiscate certain things other players have worked hard for. These things should, in my belief, steadily begin to repair some deeper imbalances and gameplay damage that persistance has brought, and enable  
+Antagonists have fairer play. Security can do their job of station regulation without interference of Freelancers or avoid one of the more painful points of this servers Persistence -- Loss of Equipment -- All because they are doing their job to confiscate certain things other players have worked hard for. These things should, in my belief, steadily begin to repair some deeper imbalances and gameplay damage that persistance has brought, and enable a means to pave towards better QoL and gameplay balance for all roles in the game.
+
+I hope my work helps spur this. Thank ya'll for going through all of this documentation, and I hope to see all of you in game as I often times already do! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNzk3NjAwLC03NzMxMDQyOTMsOTIyMD
-Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
-LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
-I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
-ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
-YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTY0ODk4MjA2NCwtNzczMTA0MjkzLDkyMj
+A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
+LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
+EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
+LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
+c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
+MjExXX0=
 -->

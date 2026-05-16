@@ -121,13 +121,15 @@ The Freelancer SoP is as follows:
  - By standard practices, you are not denied docking access and harbour equipment access. You are even given benefit of the doubt by Freelancer Staff and officers so that you may freely dock and un-dock at your leisure for offloading bounty, barter and trade goods, as well as socialization and anything else you can think of. You may lose access to these privileges mid-shift, but have them freely restored upon the arrival of the next shift.
  - **The HM and their staff exist to represent the Freelancers of the sector. They are well-intended and seek to provide Freelancers a community that willfully trusts them to do good, or attempt things in the best interest of the sector. As your reputation grows upwards, so will your connections -- and so will your reliability of your freedoms. As your reputation grows downwards, certain connections may join you -- and your name may gain infamy as well as new burdens you must find ways around. In your contracted agreement with CC and all local-sector HMs by proxy -- you may choose the life you wish, and reap the benefits and consequences.**
  ##
- This is the full conclusion of all SoP pertaining to the Department of Freelancing, and its represented people, the Freelancers. I hope to hear from people regarding many aspects of this draft, nd
+ This is the full conclusion of all SoP pertaining to the Department of Freelancing, and its represented people, the Freelancers. I hope to hear from people regarding many aspects of this draft, and my goal is to polish it until we reach a satisfactory, community-and-director agreed conclusion.
+
+I will be sincere in saying that with this entire new department, and the fact of emplacing a new, clear-cut line of regulations and standards for Freelancers, that this may feel it could encroach upon Freelancer identity. I will admit that
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzE1NTY0NywtNzczMTA0MjkzLDkyMj
-A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
-LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
-EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
-LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
-c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
-MjExXX0=
+eyJoaXN0b3J5IjpbLTEwMDc2MjEyNTksLTc3MzEwNDI5Myw5Mj
+IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
+MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
+UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
+OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
+U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
+OTIxMV19
 -->

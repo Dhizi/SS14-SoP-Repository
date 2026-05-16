@@ -55,13 +55,16 @@ The STC abides by guidelines as follows:
 ## Admiral & Freelance Officer Staff SoP
 The Admiral and their FL Staff abide by guidelines as follows:
 
- - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. 
- - 
+ - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
+
+### ADMIRAL SPECIFIC SoP
+
+ - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NTEyNDc5LC0xNzA1ODA4MTYxLDEzMz
-g5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OTg4Njc2
-LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1MzEsMT
-MwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4NTUyNCwxODA0MzY1
-MDM2XX0=
+eyJoaXN0b3J5IjpbMTIzOTk2NzQyMCwzNjc1MTI0NzksLTE3MD
+U4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5
+LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMT
+QyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1
+NTI0LDE4MDQzNjUwMzZdfQ==
 -->

@@ -113,13 +113,13 @@ The Freelancer SoP is as follows:
  - A Freelancer need only respect: Station Alert Status, Contraband regulations and the Contraband Checkpoint searches, Station security law enforcement, and the Harbor Masters policies for their harbour. Aside from this, a Freelancer may lawfully do as they wish, but always be cognizant that although they do not follow all things a station-staffer may, they are still treated as responsible, and if guilty of committing any crime in the local-space, they are beholden to the enforcement of SoP breaches of the harbour, station, and other departments. 
  - So long as a Freelancer is aware of Harbour SoP, keeps an ear open for what is stated in local-comms and Freelancer comms channels, and simply does not endanger other sector occupants, they are free to come and go as they please.
  - By Freelancer identity, you will likely come into contact with -- or acquiesce by your own means, a large collection of rather 'exotic' equipment. You must bear awareness that high-grade Contraband is illegal aboard the sector stations, and that the harbour where you may dock and exist freely operates the singular lawful entry checkpoint to the station. 
- - No Contraband at C3 or greater will be permitted past the harbour checkpoint that leads to the station.
+ - No Contraband at C3 or greater will be permitted past the harbour checkpoint that leads to the station, except in rare cases of Red Alert status and above. To pass the checkpoint normally and lawfully, you must abide by a quick bag & pocket search handled by the officers of the harbour. You need not worry most times about your worn or carried gear (so long as you abide by harbour Alert Status Protocol and the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTk1OTQ4NCwtNzczMTA0MjkzLDkyMj
-A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
-LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
-EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
-LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
-c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
-MjExXX0=
+eyJoaXN0b3J5IjpbNDY5OTgwMzYzLC03NzMxMDQyOTMsOTIyMD
+Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
+LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
+I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
+ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
+YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
+MTFdfQ==
 -->

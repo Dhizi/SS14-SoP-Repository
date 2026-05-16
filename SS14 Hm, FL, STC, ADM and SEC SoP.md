@@ -76,7 +76,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 ##### ALERT STATUS PROTOCOL
 <font color="GREEN">GREEN</font> = Abide by HM-declared visible kit regulations. By default, no firearms are to be loaded, in-hand, brandished or visible on person other than a PDW upon ones back or pockets. All magazines are to be unloaded, and the chamber of all firearms open and empty, setting the firearm to safe.
-<font color="BLUE">BLUE</font> = Personal protection equipment may be worn and visible on person, of no grade higher than C2. Long-arms are not to be brandished unless a threat is presented
+<font color="BLUE">BLUE</font> = Personal protection equipment may be worn and visible on person, of no grade higher than C2. Long-arms are not to be brandished unless a threat is presented as a danger to said individual. 
 
 
 ### ADMIRAL SPECIFIC SoP
@@ -84,7 +84,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY1NDk4NTUsNTM2NTg3MzU5LDIxMD
+eyJoaXN0b3J5IjpbLTIwMDI2OTA5OTYsNTM2NTg3MzU5LDIxMD
 E3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3
 MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMD
 M0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4

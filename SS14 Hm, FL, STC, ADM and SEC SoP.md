@@ -92,10 +92,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
- - You are the primary regulator of the harbour Checkpoint. You conduct quick bag & pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband 
+ - You are the primary regulator of the harbour Checkpoint. You conduct quick bag & pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within yor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg2OTQyNzQsMTU4MzcxOTIwMywtMT
+eyJoaXN0b3J5IjpbLTE5ODM4MDE0NjksMTU4MzcxOTIwMywtMT
 I0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3
 OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MD
 IzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3

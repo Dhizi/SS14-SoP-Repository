@@ -57,8 +57,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
  - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
  -  It is the Admirals utmost priority to assure that the harbour, its occupants whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies needed, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
- - You are the primary regulators of the harbour Checkpoint. The Admiral & the Officers conduct quick bag & pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within your station. 
- - All contraband seized by checkpoint staff is to be delivered to the Contraband Armory should Freelancers comply with disarming -- Otherwise, direct them to return to their ship and disarm themself. Until all C3-carried contraband is stowed, you are to deny crossing to the station, and vice versa. You must log all contraband with note of the owner, the contraband in question, and when it was placed in the armory. You are to then 
+ - The Admiral & their Officers are the primary regulators of the harbour Checkpoint. The Admiral & the Officers conduct quick bag and pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within your station. 
+ - All contraband seized by checkpoint staff is to be delivered to the Contraband Armory should Freelancers comply with disarming -- Otherwise, direct them to return to their ship and disarm themself. Until all C3-carried contraband is stowed, you are to deny crossing to the station, and vice versa. You must log all contraband with note of the owner, the contraband in question, and when it was placed in the armory. You are to then return to them their equipment when they return -- and update your log to also include time of returning said equipment.
  - The Admiral and their Officers are the Primary armed staff of the department with the responsibility to maintain harbour security, and assist the station Security team when requested. 
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
@@ -97,10 +97,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0Mjg3ODM2LDE1ODM3MTkyMDMsLTEyND
-c1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0Nzks
-LTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMz
-M3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2
-OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNj
-UxMzg1NTI0LDE4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbLTkxMjQ0ODcxNSwxNTgzNzE5MjAzLC0xMj
+Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
+LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
+MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1
+NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLD
+Y1MTM4NTUyNCwxODA0MzY1MDM2XX0=
 -->

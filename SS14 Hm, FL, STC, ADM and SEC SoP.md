@@ -59,7 +59,8 @@ The Admiral and their FL Staff abide by guidelines as follows:
  -  It is the Admirals utmost priority to assure that the harbour, its occupants whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies needed, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
  - The Admiral & their Officers are the primary regulators of the harbour Checkpoint. The Admiral & the Officers conduct quick bag and pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within your station. 
  - All contraband seized by checkpoint staff is to be delivered to the Contraband Armory should Freelancers comply with disarming -- Otherwise, direct them to return to their ship and disarm themself. Until all C3-carried contraband is stowed, you are to deny crossing to the station, and vice versa. You must log all contraband with note of the owner, species, the contraband in question, and when it was placed in the armory. You are to then return to them their equipment when they return -- and update your log to also include time of return. 
- - The Admiral and their Officers are the Primary armed staff of the department with the responsibility to maintain harbour security, and assist the station Security team when requested. Although armed, it is important to remember that the priority of your station is to be able to efficiently communicate and talk-down hostilities, and if that fails, resp
+ - The Admiral and their Officers are the Primary armed staff of the department with the responsibility to maintain harbour security, and assist the station Security team when requested. Although armed, it is important to remember that the priority of your station is to be able to efficiently communicate and talk-down hostilities, and if that fails, resort to non-lethal methods -- and again if this fails, to rely upon lethal force as your last option. 
+ - The level of arming is dictated by STATION ALERT status -- Please follow accordingly and maintain clear channels of communication with both unaware staff and Freelancers. Understand in low-level alerts, arming procedures differ between staff and Freelancers by default. 
 
  ## This team is the primary upholder of the **Harbour SoP.** This SoPs details follow below:
 ### Harbour SoP & Operating regulations
@@ -97,7 +98,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTg0NjcyNywxNTgzNzE5MjAzLC0xMj
+eyJoaXN0b3J5IjpbMTA2MTMwOTIxNSwxNTgzNzE5MjAzLC0xMj
 Q3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5
 LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMj
 MzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1

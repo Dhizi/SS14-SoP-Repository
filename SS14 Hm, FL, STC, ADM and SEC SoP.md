@@ -117,13 +117,14 @@ The Freelancer SoP is as follows:
  - Your C3 contraband may be left with harbour Officers at the checkpoint, stored in the Contraband Armory. Your equipment will be logged, kept safe, and once you are done with whatever activities you seek to do on the station, you may return to the checkpoint, re-obtain your kit, and go about your day aboard the harbour onto your vessel. Otherwise, if you do not seek to disarm yourself at the checkpoint, you may return to your vessel, disarm, and return to the checkpoint for another search -- and once cleared, you may proceed with your travel to the station.
  - The Freelance Department exists to act as a functioning community and hub for you to re-supply, eat & drink, pick up bounties, hire crew, offer your services to the station or the harbour, or make lawful travel to the station for your own reasons. This department also exists to guarantee your rights will not be infringed upon on and off the station so long as you merely commit no crimes, or attempt to trespass on the station with illicit kit. If you abide by their regulations, they will and are obligated to do their utmost to fulfill their duties to operate as your local guardians, educators and technicians. 
  - You may acquire bounties at the harbour Bounty-board, located within the bar-space of the harbour. It will hold all posted bounties by the HM, or any other bounty-providers, ranging from other Freelancers to station staff. These bounties will range from repair duties, medical assistance, supply drops, possibly security reinforcement, filling in vacant job-positions aboard the station or harbour, and in some cases the elimination of hostile threats in-space or aboard the harbour or station. 
- - The station and its staff & resources are a privilege. Should you abide by common decency and local laws and regulations, your traffic on and off will be unimpeded, and you may freely use all resources at your disposal within the station and that its staff provide. Should you choose to be against the standards of common decency or refuse to comply with local law and regulations, or you seek to be an outlaw -- 
+ - The station and its staff & resources are a privilege. Should you abide by common decency and local laws and regulations, your traffic on and off will be unimpeded, and you may freely use all resources at your disposal within the station and that its staff provide. Should you choose to be against the standards of common decency or refuse to comply with local law and regulations, or you seek to be an outlaw -- You must be aware that if your reputation precedes you, this will impede your mobility between the harbour and station.
+ - By standard practices, you are not denied docking access and harbour equipment access. You are even given benefit of the doubt by Freelancer Staff and officers so that you may freely dock and un-dock at your leisure for offloading bounty, barter and trade goods, as well as socialization and anything else you can think of. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ5NjEzNTYsLTc3MzEwNDI5Myw5Mj
-IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
-MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
-UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
-OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
-U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
-OTIxMV19
+eyJoaXN0b3J5IjpbODU0ODk4NjA1LC03NzMxMDQyOTMsOTIyMD
+Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
+LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
+I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
+ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
+YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
+MTFdfQ==
 -->

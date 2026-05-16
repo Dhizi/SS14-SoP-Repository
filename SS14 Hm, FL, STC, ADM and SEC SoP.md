@@ -109,12 +109,12 @@ Freelancers, the people the Freelance Department is built around, have a much mo
 
 The Freelancer SoP is as follows:
 
- - A Freelancer is a known and registered free-contractor of the local sector space. They have abided by and signed an agreement with CC and in coordination, the HM of the acting local-space stations. This contractual agreement has allowed them to exist as an entity within this sectors space who may, and is not restricted by standard practices of the station demands and practices. 
+ - A Freelancer is a known and registered free-contractor of the local sector space. They have abided by and signed an agreement with CC and in coordination, the HM of the acting local-space stations. This contractual agreement has allowed them to exist as an entity within this sectors space who may move freely in space, and is not restricted by standard practices of the station demands and practices. 
  - A Freelancer need only respect: Station Alert Status, Contraband regulations and the Contraband Checkpoint searches, Station security law enforcement, and the Harbor Masters policies for their harbour. Aside from this, a Freelancer may lawfully do as they wish, but always be cognizant that although they do not follow all things a station-staffer may, they are still treated as responsible, and if guilty of committing any crime in the local-space, they are beholden to the enforcement of SoP breaches of the harbour, station, and other departments. 
  - So long as a Freelancer is aware of Harbour SoP, keeps an ear open for what is stated in local-comms and Freelancer comms channels, and simply does not endanger other sector occupants, they are free to come and go as they please.
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzMyODgyMCw5MjIwNjU1MCw4NTE4Mz
+eyJoaXN0b3J5IjpbLTc3MzEwNDI5Myw5MjIwNjU1MCw4NTE4Mz
 UyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIwMywtMTI0NzU0ODM1
 OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3OSwtMTcwNT
 gwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDks

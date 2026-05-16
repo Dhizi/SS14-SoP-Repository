@@ -87,17 +87,17 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 <font color="PINK">GAMMA</font> = CC Has issued a mass-sector order for the immediate response of an extreme-risk event. All Freelancers and Staff are to LOCK-DOWN all Harbour entrances and exits, coordinate together to assure that the Harbour is SECURE, and all Freelancers MUST COMPLY with orders issued by Freelancer Department staff. Checkpoint lockdown is paramount, and in the event that a station collapse is imminent, the harbour and all occupants are to evacuate the local space immediately. All that traverse from harbour to station are at the risk of open-fire from Security, and are encouraged to NOT LEAVE THE HARBOUR SPACE -- BUT NOT RESTRICTED FROM DOING SO SHOULD THEY CHOOSE, KNOWING THE CONSEQUENCES. Should a decision need be made on the viability and safety of the harbour, the HM or any acting, living staff officers may declare the portal to be de-powered and shut down to prevent the traversal of dangers to the harbour. **Staff and Officers are to maintain order and quell chaos on the harbour. Direct non-combat personnel to evacuating vessels, arm yourself and any willing Freelancers who have not yet armed themself, and prepare to defend the harbour or station dependent on situation. Be fully cognizant that Security has an order to likely fire upon any non-officer & non-security staff -- Do your utmost to convince Freelancers to stay aboard the harbour for their personal safety. Work with security to form a controlled parameter and coordinate with your Admiral and HoS of station accordingly. PRIORITY IS TO KEEP AS MANY PERSONNEL ALIVE AS POSSIBLE -- ENCOURAGE EVAC OR THE LOCK-DOWN OF DEFENSIBLE AND CRITICAL POSITIONS.**
 
-<font color="TAN">OMICRON ALERT</font> = DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AW
+<font color="TAN">OMICRON ALERT</font> = DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH. **DISARM. STAND DOWN. STAY IN YOUR VESSELS AND DEPARTMENT SPACES, MAXIMIZE SUIT SENSORS AND AWAIT FURTHER ORDERS. ANY REFUSAL TO COMPLY MAY AND LIKELY WILL RESULT IN DEATH.**
 
 ### ADMIRAL SPECIFIC SoP
 
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgzNjY2NTAsLTEyNDc1NDgzNTgsNT
-M2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgx
-NjEsMTMzODk2ODk3MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mz
-c5ODg2NzYsLTQwMDM0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2
-MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LD
-E4MDQzNjUwMzZdfQ==
+eyJoaXN0b3J5IjpbMTU4MzcxOTIwMywtMTI0NzU0ODM1OCw1Mz
+Y1ODczNTksMjEwMTc4NTU4LDM2NzUxMjQ3OSwtMTcwNTgwODE2
+MSwxMzM4OTY4OTczLDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNz
+k4ODY3NiwtNDAwMzQxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYz
+NTMxLDEzMDk4MDg3OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMT
+gwNDM2NTAzNl19
 -->

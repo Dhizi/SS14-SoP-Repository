@@ -59,10 +59,10 @@ The Admiral and their FL Staff abide by guidelines as follows:
 
 ### ADMIRAL SPECIFIC SoP
 
- - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. I
+ - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAxODU0MDIsMzY3NTEyNDc5LC0xNz
+eyJoaXN0b3J5IjpbLTE4MzcxNDgxODIsMzY3NTEyNDc5LC0xNz
 A1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYw
 OSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLT
 E0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5MjExLDY1MTM4

@@ -114,13 +114,13 @@ The Freelancer SoP is as follows:
  - So long as a Freelancer is aware of Harbour SoP, keeps an ear open for what is stated in local-comms and Freelancer comms channels, and simply does not endanger other sector occupants, they are free to come and go as they please.
  - By Freelancer identity, you will likely come into contact with -- or acquiesce by your own means, a large collection of rather 'exotic' equipment. You must bear awareness that high-grade Contraband is illegal aboard the sector stations, and that the harbour where you may dock and exist freely operates the singular lawful entry checkpoint to the station. 
  - No Contraband at C3 or greater will be permitted past the harbour checkpoint that leads to the station, except in rare cases of Red Alert status and above. To pass the checkpoint normally and lawfully, you must abide by a quick bag & pocket search handled by the officers of the harbour. You need not worry most times about your worn or carried gear while aboard the harbour (so long as you abide by harbour Alert Status Protocol and the HM's standard practice), but the moment you seek to navigate to the station, you must disarm-down all C3 or greater contraband equipment off of your person.
- - Your C3
+ - Your C3 contraband may be left with harbour Officers at the checkpoint, stored in the Contraband Armory. Your equipment will be logged, kept safe, and once you are done with whatever activities you seek to do on the station, you may return to the checkpoint, re-obtain your kit, and go about your day aboard the harbour onto your vessel. Otherwise, if you do not seek to disarm yourself at the checkpoint, you may return to your vessel, disarm 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcwMTYxMDEsLTc3MzEwNDI5Myw5Mj
-IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
-MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
-UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
-OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
-U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
-OTIxMV19
+eyJoaXN0b3J5IjpbNzk3OTcwNTE0LC03NzMxMDQyOTMsOTIyMD
+Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
+LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
+I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
+ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
+YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
+MTFdfQ==
 -->

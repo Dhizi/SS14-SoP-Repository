@@ -131,13 +131,13 @@ This SoP is designed to pull back into place balance in some places. Regulating 
 
 Assuring that Freelancers abide by the same rules all station staff, all players we know do whilst aboard the station, so that there is no longer a power disparity, a nulling of Securities purpose and identity due to the sheer armories of C3 gear that one may carry on their person in BS Bags -- This all addresses the longevity of gameplay in the server.
 
-Antagonists have fairer play. 
+Antagonists have fairer play. Security can do their job of station regulation without interference of Freelancers or avoid one of the more painful points of this servers Persistence -- Loss of Equipment -- All because they are doing their job to confiscate certain things other players have worked hard for. These things hou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NzA4MTk5LC03NzMxMDQyOTMsOTIyMD
-Y1NTAsODUxODM1MjUyLC0xMzU3MTY2ODEzLDE1ODM3MTkyMDMs
-LTEyNDc1NDgzNTgsNTM2NTg3MzU5LDIxMDE3ODU1OCwzNjc1MT
-I0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3MywzMDkyOTE2OTks
-ODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMDM0MTgyMSwtMTU1Nz
-YwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4NzkxLC0zNjQwNDky
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjIxODg3NDAsLTc3MzEwNDI5Myw5Mj
+IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
+MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
+UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
+OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
+U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
+OTIxMV19
 -->

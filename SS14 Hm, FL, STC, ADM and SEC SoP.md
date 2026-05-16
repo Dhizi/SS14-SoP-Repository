@@ -75,11 +75,7 @@ The Admiral and their FL Staff abide by guidelines as follows:
 - Should any situations arise where an answer is unclear or unable to be found, please notify higher rank-acting staff for assistance. 
 
 ##### ALERT STATUS PROTOCOL
-
-
-```diff Hello
-
-```
+<font color="GREEN">GREEN</font> = 
 
 
 ### ADMIRAL SPECIFIC SoP
@@ -87,10 +83,9 @@ The Admiral and their FL Staff abide by guidelines as follows:
  - It is your utmost priority to assure that the harbour, its occupants, whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyNDU4OTksNTM2NTg3MzU5LDIxMD
-E3ODU1OCwzNjc1MTI0NzksLTE3MDU4MDgxNjEsMTMzODk2ODk3
-MywzMDkyOTE2OTksODAyMzM3NjA5LDE0Mzc5ODg2NzYsLTQwMD
-M0MTgyMSwtMTU1NzYwNzU2OCwtMTQyNzE2MzUzMSwxMzA5ODA4
-NzkxLC0zNjQwNDkyMTEsNjUxMzg1NTI0LDE4MDQzNjUwMzZdfQ
-==
+eyJoaXN0b3J5IjpbMTI1MjA3NTc2NCw1MzY1ODczNTksMjEwMT
+c4NTU4LDM2NzUxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTcz
+LDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMz
+QxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3
+OTEsLTM2NDA0OTIxMSw2NTEzODU1MjQsMTgwNDM2NTAzNl19
 -->

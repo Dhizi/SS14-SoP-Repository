@@ -123,13 +123,13 @@ The Freelancer SoP is as follows:
  ##
  This is the full conclusion of all SoP pertaining to the Department of Freelancing, and its represented people, the Freelancers. I hope to hear from people regarding many aspects of this draft, and my goal is to polish it until we reach a satisfactory, community-and-director agreed conclusion.
 
-I will be sincere in saying that with this entire new department, and the fact of emplacing a new, clear-cut line of regulations and standards for Freelancers, that this may feel it could encroach upon Freelancer identity. I will admit that
+I will be sincere in saying that with this entire new department, and the fact of emplacing a new, clear-cut line of regulations and standards for Freelancers, that this may feel it could encroach upon Freelancer identity. I will admit that I cannot deny that this is a possibility. But, if this server wishes to persist with the goals of growth, stability and all departments functioning healthily and having their own identities, these minor regulations -- or clarifications of basic, standard-practice laws aboard the harbour and station
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDc2MjEyNTksLTc3MzEwNDI5Myw5Mj
-IwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMsMTU4MzcxOTIw
-MywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMTc4NTU4LDM2Nz
-UxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTczLDMwOTI5MTY5
-OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMzQxODIxLC0xNT
-U3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3OTEsLTM2NDA0
-OTIxMV19
+eyJoaXN0b3J5IjpbLTkyOTI2NjU0NiwtNzczMTA0MjkzLDkyMj
+A2NTUwLDg1MTgzNTI1MiwtMTM1NzE2NjgxMywxNTgzNzE5MjAz
+LC0xMjQ3NTQ4MzU4LDUzNjU4NzM1OSwyMTAxNzg1NTgsMzY3NT
+EyNDc5LC0xNzA1ODA4MTYxLDEzMzg5Njg5NzMsMzA5MjkxNjk5
+LDgwMjMzNzYwOSwxNDM3OTg4Njc2LC00MDAzNDE4MjEsLTE1NT
+c2MDc1NjgsLTE0MjcxNjM1MzEsMTMwOTgwODc5MSwtMzY0MDQ5
+MjExXX0=
 -->

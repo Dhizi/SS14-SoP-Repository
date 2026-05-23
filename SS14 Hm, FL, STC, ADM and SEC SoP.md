@@ -56,7 +56,7 @@ The STC abides by guidelines as follows:
 ## Admiral & Freelance Officer SoP
 The Admiral and their FL Officers abide by guidelines as follows:
 
-- **The Admiral is of direct-rank below the HM, and equivalent in rank to the STC. They takes orders from the HM as a superior. Rely upon your HM's guidance should confusion arise, and it is your priority to provide them in the loop to security dangers and threats aboard the harbour.**
+ - **The Admiral is of direct-rank below the HM, and equivalent in rank to the STC. They takes orders from the HM as a superior. Rely upon your HM's guidance should confusion arise, and it is your priority to provide them in the loop to security dangers and threats aboard the harbour.**
  - The Admirals purpose is to be the effective leadership of all Freelance Officer staff aboard the harbour. The purpose of the Freelance Officers is to be the unified team beneath the Admiral, who follow their delegated orders, maintain harbour and freelancer community, security & stability, and uphold a reliable service to all Freelancers aboard the harbour while also maintaining the key, critical checkpoint regulations that allow Freelancers and station-going staff to navigate to-and-from harbour to station, and vice versa. As a team, the Admiral and FL staff help keep the population of Freelancers provided with the important services of Security, way-of-life guarantee, regulating crime and misdemeanor on the harbour, as well as functioning as a safety net for incidental contraband-carry aboard the station -- and assuring the station and its people that Freelancers are equal to them in equipment when aboard the station, as to equalize the imbalance of power, respect and influence. This is the standard mission statement of the team as a whole.
  -  It is the Admirals utmost priority to assure that the harbour, its occupants whether Freelancer or staff, are protected, able to adequately access all necessary tools, goods and supplies needed, and are abiding by the HM and standard-harbour SoP. It is imperative that all priority is placed upon assuring that Freelancers are given equal right, allowed to have their freedoms untouched other than by regulating that no harbour or station laws are broken, and that the flow of Freelancers is regulated for entry/exit from the station.
  - The Admiral & their Officers are the primary regulators of the harbour Checkpoint. The Admiral & the Officers conduct quick bag and pocket searches of all Freelancers whom reach the checkpoint, and determine if they are cleared and legally abiding station law and contraband regulation. You assure that no C3 or greater contraband crosses from either end -- and it is your responsibility to maintain this equipment in your Contraband Armory within your station. 
@@ -140,11 +140,11 @@ I hope my work helps spur this. Thank ya'll for going through all of this docume
 -- Dhizi, otherwise known in-game as:
  Pez Moffit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzY5OTI1OCw5NzM5NjkyNTUsLTc3Mz
-EwNDI5Myw5MjIwNjU1MCw4NTE4MzUyNTIsLTEzNTcxNjY4MTMs
-MTU4MzcxOTIwMywtMTI0NzU0ODM1OCw1MzY1ODczNTksMjEwMT
-c4NTU4LDM2NzUxMjQ3OSwtMTcwNTgwODE2MSwxMzM4OTY4OTcz
-LDMwOTI5MTY5OSw4MDIzMzc2MDksMTQzNzk4ODY3NiwtNDAwMz
-QxODIxLC0xNTU3NjA3NTY4LC0xNDI3MTYzNTMxLDEzMDk4MDg3
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTY0NTMwMjkxMCwxMjgzNjk5MjU4LDk3Mz
+k2OTI1NSwtNzczMTA0MjkzLDkyMjA2NTUwLDg1MTgzNTI1Miwt
+MTM1NzE2NjgxMywxNTgzNzE5MjAzLC0xMjQ3NTQ4MzU4LDUzNj
+U4NzM1OSwyMTAxNzg1NTgsMzY3NTEyNDc5LC0xNzA1ODA4MTYx
+LDEzMzg5Njg5NzMsMzA5MjkxNjk5LDgwMjMzNzYwOSwxNDM3OT
+g4Njc2LC00MDAzNDE4MjEsLTE1NTc2MDc1NjgsLTE0MjcxNjM1
+MzFdfQ==
 -->
